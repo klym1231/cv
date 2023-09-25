@@ -1,0 +1,105 @@
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+  <title>Items</title>
+  <link rel="stylesheet" th:href="@{/style.css}">
+  <meta charset="UTF-8">
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+    integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+  <script src="https://cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js"></script>
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.10.25/css/jquery.dataTables.min.css">
+
+</head>
+
+<body>
+  <h1>Items</h1>
+  <form method="POST">
+    <button type="submit">ADD</button>
+  </form>
+
+  <!--
+  <img th:src="@{/images/A_8_tr.png}" />
+  -->
+  <table id="item">
+    <tr>
+      <th onclick="sortTable(0)">Name</th>
+      <th onclick="sortTable(1)">Level</th>
+      <th onclick="sortTable(2)">Position</th>
+      <th onclick="sortTable(3)">Content1</th>
+      <th onclick="sortTable(4)">Content2</th>
+      <th onclick="sortTable(5)">Content3</th>
+    </tr>
+
+    <tr th:each="item: ${items}" th:data-column="${itemStat.index}">
+      <td th:text="${item.name}">Name</td>
+      <td th:text="${item.level}">Level</td>
+      <td th:text="${item.position}">Position</td>
+      <td th:text="${item.content1}">Content1</td>
+      <td th:text="${item.content2}">Content2</td>
+      <td th:text="${item.content3}">Content3</td>
+      <!--<td> <img th:src="@{#string.concat('/images/', ${item.name}, '.png')}"/></td>-->
+    </tr>
+  </table>
+
+  <script>
+    var count = 0;
+    var countsort = 0;
+    function sortTable(n) {
+      count += 1;
+      //console.log("counting: " + count);
+      var table, i, x, y;
+      let switching, shouldSwitch, asc, rows;
+      table = document.getElementById("item");
+      switching = true;
+      rows = table.rows;
+      asc = true;
+      if (isAlreadySortedAscending()) {
+        console.log("issorted?" + isAlreadySortedAscending());
+        asc = false;
+      }
+
+      while (switching) {
+        switching = false;
+        console.log("asc:" + asc);
+        for (i = 1; i < (rows.length - 1); i++) {
+          shouldSwitch = false;
+          x = rows[i].getElementsByTagName("TD")[n];
+          y = rows[i + 1].getElementsByTagName("TD")[n];
+          if (asc) {
+            if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) {
+              console.log("x>y");
+              shouldSwitch = true;
+              break;
+            }
+          } else {
+            if (x.innerHTML.toLowerCase() < y.innerHTML.toLowerCase()) {
+              console.log("x<y")
+              shouldSwitch = true;
+              break;
+            }
+          }
+        }
+        if (shouldSwitch) {
+          rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+          switching = true;
+
+        }
+      }
+
+      function isAlreadySortedAscending() {
+        countsort += 1;
+        let first = rows[1];
+        let last = rows[rows.length - 2];
+        // Compare first and last values
+        return first.getElementsByTagName("TD")[n].innerHTML.toLowerCase()
+          <= last.getElementsByTagName("TD")[n].innerHTML.toLowerCase();
+      }
+    }
+  </script>
+
+
+
+</body>
+
+</html>

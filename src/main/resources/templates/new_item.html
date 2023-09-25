@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <title>Document</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" th:href="@{/style.css}">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"
+        integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+</head>
+
+<body>
+
+
+    <form id="newForm" th:object="${items}" th:action="@{/items/save}" method="post">
+        <p>Name</p>
+        <!--<input type="text" th:field="*{name}"/><br>-->
+        <select th:field="*{name}">
+            <option th:each="option_name : ${options_name}" th:text="${option_name.text}"
+                th:value="${option_name.text}">
+            </option>
+        </select>
+
+        <p>level</p>
+        <input type="number" th:field="*{level}" /><br>
+
+        <p>Position</p>
+        <select th:field="*{position}">
+            <option th:each="option_position : ${options_position}" th:text="${option_position.text}"
+                th:value="${option_position.text}">
+            </option>
+        </select>
+
+        <p>content1</p>
+        <input type="text" th:field="*{content1}" /> <br>
+
+        <p>content2</p>
+        <input type="text" th:field="*{content2}" /> <br>
+
+        <p>content3</p>
+        <input type="text" th:field="*{content3}" /> <br> <br>
+
+        <button type="submit">Save</button>
+        <!--<input type="submit" value="Submit" />-->
+
+    </form>
+
+</body>
+
+</html>

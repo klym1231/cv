@@ -1,0 +1,39 @@
+body{
+  margin: 125px;  
+  display: flex;
+  flex-direction: column; 
+  justify-content: center;
+  align-items: center;
+}
+
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+td {
+  text-align: center;
+}
+
+
+
+form#newForm {
+  text-align: center;
+}
+
+select {
+  width: 177px;
+  height: 50px;
+  align-content: center;
+}
+
+select option {
+  text-align: center;
+}
+
+
+
+
+
