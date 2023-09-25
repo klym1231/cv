@@ -1,0 +1,4039 @@
+Image: DATA/test\Golf\back476.jpg
+    Golf: 65.48%
+    megane: 29.45%
+    mercedes class a: 4.22%
+    chevroulet aveo: 0.43%
+    polo: 0.34%
+
+Image: DATA/test\Golf\back477.jpg
+    Golf: 100.00%
+    volkswagen tiguan: 0.00%
+    clio: 0.00%
+    duster: 0.00%
+    hyundai i10: 0.00%
+
+Image: DATA/test\Golf\back478.jpg
+    Golf: 99.87%
+    volkswagen tiguan: 0.05%
+    polo: 0.02%
+    hyundai i10: 0.01%
+    duster: 0.01%
+
+Image: DATA/test\Golf\back481.jpg
+    symbol: 47.36%
+    Golf: 23.41%
+    toyota corolla: 12.09%
+    megane: 3.88%
+    seat ibiza: 3.35%
+
+Image: DATA/test\Golf\back483.jpg
+    Golf: 98.47%
+    volkswagen tiguan: 1.52%
+    logan: 0.00%
+    sandero: 0.00%
+    polo: 0.00%
+
+Image: DATA/test\Golf\back492.jpg
+    Golf: 99.88%
+    seat ibiza: 0.02%
+    megane: 0.02%
+    volkswagen tiguan: 0.02%
+    chevroulet aveo: 0.01%
+
+Image: DATA/test\Golf\back494.jpg
+    Golf: 100.00%
+    duster: 0.00%
+    seat ibiza: 0.00%
+    volkswagen tiguan: 0.00%
+    chevroulet aveo: 0.00%
+
+Image: DATA/test\Golf\back502.jpg
+    Golf: 63.53%
+    megane: 18.61%
+    mercedes class a: 16.47%
+    toyota corolla: 0.47%
+    polo: 0.22%
+
+Image: DATA/test\Golf\back509.jpg
+    clio: 83.02%
+    megane: 8.81%
+    chevroulet aveo: 3.55%
+    Golf: 3.19%
+    mercedes class a: 0.37%
+
+Image: DATA/test\Golf\back514.jpg
+    Golf: 100.00%
+    polo: 0.00%
+    volkswagen tiguan: 0.00%
+    hyundai i10: 0.00%
+    bmw serie 1: 0.00%
+
+Image: DATA/test\Golf\back518.jpg
+    Golf: 100.00%
+    volkswagen tiguan: 0.00%
+    octavia: 0.00%
+    polo: 0.00%
+    clio: 0.00%
+
+Image: DATA/test\Golf\back519.jpg
+    clio: 56.61%
+    megane: 33.99%
+    chevrolet spark: 3.94%
+    mercedes class a: 2.22%
+    toyota corolla: 1.74%
+
+Image: DATA/test\Golf\back524.jpg
+    Golf: 99.38%
+    mercedes class a: 0.29%
+    megane: 0.20%
+    polo: 0.09%
+    hyundai i10: 0.02%
+
+Image: DATA/test\Golf\back526.jpg
+    Golf: 99.81%
+    polo: 0.16%
+    megane: 0.02%
+    volkswagen tiguan: 0.01%
+    mercedes class a: 0.01%
+
+Image: DATA/test\Golf\back535.jpg
+    Golf: 99.93%
+    megane: 0.06%
+    octavia: 0.00%
+    polo: 0.00%
+    logan: 0.00%
+
+Image: DATA/test\Golf\back541.jpg
+    Golf: 89.49%
+    polo: 8.87%
+    duster: 0.61%
+    megane: 0.34%
+    logan: 0.33%
+
+Image: DATA/test\Golf\back549.jpg
+    Golf: 68.24%
+    volkswagen tiguan: 31.75%
+    polo: 0.01%
+    mercedes class a: 0.00%
+    hyundai i10: 0.00%
+
+Image: DATA/test\Golf\car474.jpg
+    Golf: 99.67%
+    volkswagen tiguan: 0.33%
+    megane: 0.00%
+    seat ibiza: 0.00%
+    logan: 0.00%
+
+Image: DATA/test\Golf\car493.jpg
+    Golf: 99.97%
+    seat ibiza: 0.02%
+    volkswagen tiguan: 0.01%
+    duster: 0.00%
+    polo: 0.00%
+
+Image: DATA/test\Golf\car498.jpg
+    Golf: 93.96%
+    mercedes class a: 4.62%
+    volkswagen tiguan: 0.49%
+    clio: 0.33%
+    polo: 0.30%
+
+Image: DATA/test\Golf\car500.jpg
+    Golf: 99.96%
+    polo: 0.02%
+    mercedes class a: 0.01%
+    megane: 0.00%
+    volkswagen tiguan: 0.00%
+
+Image: DATA/test\Golf\car504.jpg
+    Golf: 85.29%
+    megane: 13.19%
+    volkswagen tiguan: 0.50%
+    logan: 0.20%
+    mercedes class a: 0.17%
+
+Image: DATA/test\Golf\car518.jpg
+    Golf: 99.99%
+    volkswagen tiguan: 0.01%
+    bmw serie 1: 0.00%
+    polo: 0.00%
+    megane: 0.00%
+
+Image: DATA/test\Golf\car519.jpg
+    mercedes class a: 85.03%
+    polo: 8.45%
+    chevrolet spark: 3.82%
+    picanto: 1.89%
+    megane: 0.49%
+
+Image: DATA/test\Golf\car520.jpg
+    duster: 99.99%
+    hyundai i10: 0.01%
+    mercedes class a: 0.00%
+    bmw serie 1: 0.00%
+    megane: 0.00%
+
+Image: DATA/test\Golf\car521.jpg
+    Golf: 99.95%
+    duster: 0.04%
+    volkswagen tiguan: 0.01%
+    mercedes class a: 0.00%
+    polo: 0.00%
+
+Image: DATA/test\Golf\car525.jpg
+    Golf: 99.99%
+    megane: 0.01%
+    clio: 0.00%
+    bmw serie 1: 0.00%
+    mercedes class a: 0.00%
+
+Image: DATA/test\Golf\car545.jpg
+    Golf: 99.86%
+    polo: 0.13%
+    bmw serie 1: 0.00%
+    seat ibiza: 0.00%
+    megane: 0.00%
+
+Image: DATA/test\Golf\car546.jpg
+    Golf: 99.81%
+    megane: 0.08%
+    volkswagen tiguan: 0.05%
+    polo: 0.05%
+    logan: 0.00%
+
+Image: DATA/test\bmw serie 1\back13.jpg
+    bmw serie 1: 99.91%
+    megane: 0.03%
+    Golf: 0.02%
+    logan: 0.02%
+    octavia: 0.01%
+
+Image: DATA/test\bmw serie 1\back17.jpg
+    bmw serie 1: 98.73%
+    Golf: 0.76%
+    sandero: 0.28%
+    megane: 0.08%
+    octavia: 0.05%
+
+Image: DATA/test\bmw serie 1\back25.jpg
+    bmw serie 1: 99.98%
+    megane: 0.02%
+    octavia: 0.00%
+    volkswagen tiguan: 0.00%
+    chevrolet spark: 0.00%
+
+Image: DATA/test\bmw serie 1\back34.jpg
+    mercedes class a: 18.09%
+    Golf: 15.20%
+    megane: 12.42%
+    toyota corolla: 7.75%
+    bmw serie 1: 6.43%
+
+Image: DATA/test\bmw serie 1\back39.jpg
+    bmw serie 1: 99.99%
+    megane: 0.00%
+    octavia: 0.00%
+    clio: 0.00%
+    chevroulet aveo: 0.00%
+
+Image: DATA/test\bmw serie 1\back5.jpg
+    bmw serie 1: 99.92%
+    nemo citroen: 0.04%
+    chevroulet aveo: 0.03%
+    clio: 0.00%
+    seat ibiza: 0.00%
+
+Image: DATA/test\bmw serie 1\back9.jpg
+    megane: 89.18%
+    chevroulet aveo: 3.60%
+    bmw serie 1: 3.15%
+    clio: 1.69%
+    Golf: 0.81%
+
+Image: DATA/test\bmw serie 1\car0.jpg
+    bmw serie 1: 99.95%
+    megane: 0.02%
+    sandero: 0.02%
+    Golf: 0.01%
+    clio: 0.00%
+
+Image: DATA/test\bmw serie 1\car17.jpg
+    Golf: 65.32%
+    chevroulet aveo: 23.23%
+    megane: 5.62%
+    symbol: 2.69%
+    polo: 0.58%
+
+Image: DATA/test\bmw serie 1\car19.jpg
+    bmw serie 1: 99.98%
+    octavia: 0.01%
+    Golf: 0.00%
+    megane: 0.00%
+    clio: 0.00%
+
+Image: DATA/test\bmw serie 1\car27.jpg
+    bmw serie 1: 100.00%
+    megane: 0.00%
+    octavia: 0.00%
+    nemo citroen: 0.00%
+    seat ibiza: 0.00%
+
+Image: DATA/test\bmw serie 1\car35.jpg
+    bmw serie 1: 99.53%
+    megane: 0.47%
+    octavia: 0.00%
+    Golf: 0.00%
+    polo: 0.00%
+
+Image: DATA/test\bmw serie 1\car39.jpg
+    bmw serie 1: 90.93%
+    clio: 3.74%
+    mercedes class a: 1.80%
+    seat ibiza: 1.33%
+    Golf: 0.69%
+
+Image: DATA/test\bmw serie 1\car5.jpg
+    bmw serie 1: 100.00%
+    chevroulet aveo: 0.00%
+    mercedes class a: 0.00%
+    nemo citroen: 0.00%
+    logan: 0.00%
+
+Image: DATA/test\chevrolet spark\back50.jpg
+    volkswagen tiguan: 82.29%
+    megane: 10.66%
+    chevrolet spark: 2.16%
+    Golf: 1.99%
+    toyota corolla: 1.39%
+
+Image: DATA/test\chevrolet spark\back52.jpg
+    chevrolet spark: 45.14%
+    Golf: 24.82%
+    hyundai i10: 22.30%
+    volkswagen tiguan: 2.60%
+    clio: 1.47%
+
+Image: DATA/test\chevrolet spark\back57.jpg
+    chevrolet spark: 100.00%
+    toyota corolla: 0.00%
+    volkswagen tiguan: 0.00%
+    clio: 0.00%
+    picanto: 0.00%
+
+Image: DATA/test\chevrolet spark\back70.jpg
+    chevrolet spark: 99.99%
+    nemo citroen: 0.00%
+    seat ibiza: 0.00%
+    toyota corolla: 0.00%
+    volkswagen tiguan: 0.00%
+
+Image: DATA/test\chevrolet spark\back72.jpg
+    chevrolet spark: 100.00%
+    volkswagen tiguan: 0.00%
+    nemo citroen: 0.00%
+    toyota corolla: 0.00%
+    clio: 0.00%
+
+Image: DATA/test\chevrolet spark\back74.jpg
+    chevrolet spark: 100.00%
+    toyota corolla: 0.00%
+    clio: 0.00%
+    picanto: 0.00%
+    volkswagen tiguan: 0.00%
+
+Image: DATA/test\chevrolet spark\back76.jpg
+    chevrolet spark: 100.00%
+    mercedes class a: 0.00%
+    clio: 0.00%
+    toyota corolla: 0.00%
+    volkswagen tiguan: 0.00%
+
+Image: DATA/test\chevrolet spark\back78.jpg
+    chevrolet spark: 100.00%
+    mercedes class a: 0.00%
+    volkswagen tiguan: 0.00%
+    hyundai tucson: 0.00%
+    clio: 0.00%
+
+Image: DATA/test\chevrolet spark\back87.jpg
+    chevrolet spark: 99.98%
+    hyundai i10: 0.01%
+    mercedes class a: 0.00%
+    clio: 0.00%
+    volkswagen tiguan: 0.00%
+
+Image: DATA/test\chevrolet spark\back88.jpg
+    chevrolet spark: 100.00%
+    volkswagen tiguan: 0.00%
+    clio: 0.00%
+    toyota corolla: 0.00%
+    nemo citroen: 0.00%
+
+Image: DATA/test\chevrolet spark\back89.jpg
+    chevrolet spark: 100.00%
+    clio: 0.00%
+    toyota corolla: 0.00%
+    mercedes class a: 0.00%
+    hyundai i10: 0.00%
+
+Image: DATA/test\chevrolet spark\back92.jpg
+    chevrolet spark: 100.00%
+    volkswagen tiguan: 0.00%
+    toyota corolla: 0.00%
+    clio: 0.00%
+    hyundai tucson: 0.00%
+
+Image: DATA/test\chevrolet spark\car44.jpg
+    chevrolet spark: 100.00%
+    mercedes class a: 0.00%
+    volkswagen tiguan: 0.00%
+    hyundai i10: 0.00%
+    hyundai tucson: 0.00%
+
+Image: DATA/test\chevrolet spark\car49.jpg
+    chevrolet spark: 100.00%
+    mercedes class a: 0.00%
+    toyota corolla: 0.00%
+    clio: 0.00%
+    nemo citroen: 0.00%
+
+Image: DATA/test\chevrolet spark\car53.jpg
+    chevrolet spark: 99.99%
+    mercedes class a: 0.01%
+    volkswagen tiguan: 0.00%
+    hyundai tucson: 0.00%
+    hyundai i10: 0.00%
+
+Image: DATA/test\chevrolet spark\car61.jpg
+    chevrolet spark: 99.97%
+    toyota corolla: 0.02%
+    clio: 0.01%
+    nemo citroen: 0.00%
+    picanto: 0.00%
+
+Image: DATA/test\chevrolet spark\car65.jpg
+    chevrolet spark: 99.80%
+    hyundai i10: 0.15%
+    mercedes class a: 0.01%
+    volkswagen tiguan: 0.01%
+    toyota corolla: 0.01%
+
+Image: DATA/test\chevrolet spark\car82.jpg
+    chevrolet spark: 100.00%
+    toyota corolla: 0.00%
+    picanto: 0.00%
+    nemo citroen: 0.00%
+    hyundai tucson: 0.00%
+
+Image: DATA/test\chevrolet spark\car85.jpg
+    chevrolet spark: 100.00%
+    mercedes class a: 0.00%
+    clio: 0.00%
+    volkswagen tiguan: 0.00%
+    hyundai i10: 0.00%
+
+Image: DATA/test\chevroulet aveo\back104.jpg
+    chevroulet aveo: 99.75%
+    sandero: 0.16%
+    toyota corolla: 0.04%
+    picanto: 0.02%
+    symbol: 0.01%
+
+Image: DATA/test\chevroulet aveo\back112.jpg
+    hyundai tucson: 89.43%
+    symbol: 5.53%
+    chevroulet aveo: 2.32%
+    toyota corolla: 1.15%
+    octavia: 0.61%
+
+Image: DATA/test\chevroulet aveo\back117.jpg
+    volkswagen tiguan: 91.25%
+    hyundai tucson: 5.28%
+    chevroulet aveo: 1.64%
+    megane: 0.84%
+    duster: 0.38%
+
+Image: DATA/test\chevroulet aveo\back121.jpg
+    megane: 99.24%
+    chevroulet aveo: 0.35%
+    clio: 0.26%
+    symbol: 0.08%
+    octavia: 0.02%
+
+Image: DATA/test\chevroulet aveo\back128.jpg
+    chevroulet aveo: 57.89%
+    octavia: 37.46%
+    clio: 2.33%
+    megane: 0.77%
+    picanto: 0.40%
+
+Image: DATA/test\chevroulet aveo\back137.jpg
+    octavia: 26.06%
+    duster: 25.66%
+    chevrolet spark: 10.05%
+    hyundai tucson: 9.93%
+    Golf: 7.57%
+
+Image: DATA/test\chevroulet aveo\back140.jpg
+    toyota corolla: 23.52%
+    mercedes class a: 21.69%
+    seat ibiza: 17.66%
+    megane: 9.46%
+    clio: 6.33%
+
+Image: DATA/test\chevroulet aveo\back141.jpg
+    chevroulet aveo: 40.20%
+    octavia: 35.02%
+    hyundai i10: 8.47%
+    megane: 3.33%
+    Golf: 2.84%
+
+Image: DATA/test\chevroulet aveo\back146.jpg
+    polo: 65.81%
+    chevroulet aveo: 17.93%
+    megane: 5.29%
+    Golf: 4.60%
+    mercedes class a: 4.11%
+
+Image: DATA/test\chevroulet aveo\back154.jpg
+    chevroulet aveo: 71.96%
+    Golf: 15.11%
+    duster: 12.82%
+    hyundai i10: 0.03%
+    volkswagen tiguan: 0.02%
+
+Image: DATA/test\chevroulet aveo\back98.jpg
+    volkswagen tiguan: 25.85%
+    Golf: 21.66%
+    octavia: 17.25%
+    logan: 17.05%
+    chevroulet aveo: 8.76%
+
+Image: DATA/test\chevroulet aveo\car109.jpg
+    chevroulet aveo: 99.30%
+    nemo citroen: 0.23%
+    toyota corolla: 0.16%
+    sandero: 0.11%
+    mercedes class a: 0.05%
+
+Image: DATA/test\chevroulet aveo\car111.jpg
+    chevroulet aveo: 99.46%
+    duster: 0.29%
+    logan: 0.05%
+    octavia: 0.05%
+    polo: 0.05%
+
+Image: DATA/test\chevroulet aveo\car113.jpg
+    sandero: 78.28%
+    logan: 13.14%
+    mercedes class a: 6.21%
+    symbol: 1.17%
+    megane: 0.50%
+
+Image: DATA/test\chevroulet aveo\car114.jpg
+    chevroulet aveo: 99.58%
+    duster: 0.39%
+    megane: 0.04%
+    volkswagen tiguan: 0.00%
+    symbol: 0.00%
+
+Image: DATA/test\chevroulet aveo\car119.jpg
+    chevroulet aveo: 79.86%
+    duster: 3.22%
+    volkswagen tiguan: 2.65%
+    nemo citroen: 2.01%
+    toyota corolla: 2.00%
+
+Image: DATA/test\chevroulet aveo\car122.jpg
+    volkswagen tiguan: 74.39%
+    chevroulet aveo: 8.13%
+    duster: 7.84%
+    megane: 2.83%
+    clio: 2.49%
+
+Image: DATA/test\chevroulet aveo\car129.jpg
+    chevroulet aveo: 99.89%
+    clio: 0.10%
+    megane: 0.01%
+    Golf: 0.00%
+    sandero: 0.00%
+
+Image: DATA/test\chevroulet aveo\car134.jpg
+    toyota corolla: 25.60%
+    bmw serie 1: 25.28%
+    hyundai i10: 10.55%
+    picanto: 7.24%
+    mercedes class a: 6.18%
+
+Image: DATA/test\chevroulet aveo\car145.jpg
+    mercedes class a: 29.10%
+    seat ibiza: 17.70%
+    toyota corolla: 15.31%
+    megane: 6.56%
+    chevroulet aveo: 6.49%
+
+Image: DATA/test\chevroulet aveo\car149.jpg
+    hyundai tucson: 86.27%
+    volkswagen tiguan: 7.45%
+    toyota corolla: 6.23%
+    mercedes class a: 0.04%
+    hyundai i10: 0.00%
+
+Image: DATA/test\chevroulet aveo\car151.jpg
+    polo: 58.93%
+    Golf: 30.71%
+    chevroulet aveo: 5.42%
+    mercedes class a: 2.19%
+    megane: 1.01%
+
+Image: DATA/test\chevroulet aveo\car96.jpg
+    chevroulet aveo: 99.97%
+    Golf: 0.03%
+    sandero: 0.00%
+    hyundai tucson: 0.00%
+    picanto: 0.00%
+
+Image: DATA/test\clio\back175.jpg
+    clio: 100.00%
+    mercedes class a: 0.00%
+    toyota corolla: 0.00%
+    megane: 0.00%
+    bmw serie 1: 0.00%
+
+Image: DATA/test\clio\back183.jpg
+    clio: 100.00%
+    toyota corolla: 0.00%
+    megane: 0.00%
+    mercedes class a: 0.00%
+    bmw serie 1: 0.00%
+
+Image: DATA/test\clio\back189.jpg
+    clio: 81.03%
+    megane: 18.18%
+    bmw serie 1: 0.49%
+    mercedes class a: 0.17%
+    toyota corolla: 0.09%
+
+Image: DATA/test\clio\back194.jpg
+    clio: 100.00%
+    megane: 0.00%
+    bmw serie 1: 0.00%
+    toyota corolla: 0.00%
+    mercedes class a: 0.00%
+
+Image: DATA/test\clio\back198.jpg
+    clio: 100.00%
+    megane: 0.00%
+    toyota corolla: 0.00%
+    bmw serie 1: 0.00%
+    mercedes class a: 0.00%
+
+Image: DATA/test\clio\back201.jpg
+    clio: 100.00%
+    megane: 0.00%
+    toyota corolla: 0.00%
+    bmw serie 1: 0.00%
+    mercedes class a: 0.00%
+
+Image: DATA/test\clio\back202.jpg
+    clio: 100.00%
+    megane: 0.00%
+    mercedes class a: 0.00%
+    toyota corolla: 0.00%
+    bmw serie 1: 0.00%
+
+Image: DATA/test\clio\back205.jpg
+    clio: 100.00%
+    megane: 0.00%
+    bmw serie 1: 0.00%
+    mercedes class a: 0.00%
+    toyota corolla: 0.00%
+
+Image: DATA/test\clio\back206.jpg
+    clio: 100.00%
+    toyota corolla: 0.00%
+    megane: 0.00%
+    mercedes class a: 0.00%
+    bmw serie 1: 0.00%
+
+Image: DATA/test\clio\back212.jpg
+    clio: 77.14%
+    Golf: 12.00%
+    megane: 10.33%
+    mercedes class a: 0.14%
+    chevroulet aveo: 0.11%
+
+Image: DATA/test\clio\back217.jpg
+    clio: 100.00%
+    megane: 0.00%
+    toyota corolla: 0.00%
+    bmw serie 1: 0.00%
+    mercedes class a: 0.00%
+
+Image: DATA/test\clio\back226.jpg
+    clio: 100.00%
+    megane: 0.00%
+    mercedes class a: 0.00%
+    toyota corolla: 0.00%
+    bmw serie 1: 0.00%
+
+Image: DATA/test\clio\back228.jpg
+    clio: 100.00%
+    megane: 0.00%
+    toyota corolla: 0.00%
+    bmw serie 1: 0.00%
+    mercedes class a: 0.00%
+
+Image: DATA/test\clio\back230.jpg
+    clio: 93.79%
+    chevroulet aveo: 3.55%
+    megane: 1.48%
+    toyota corolla: 0.36%
+    Golf: 0.29%
+
+Image: DATA/test\clio\back233.jpg
+    clio: 100.00%
+    bmw serie 1: 0.00%
+    megane: 0.00%
+    hyundai i10: 0.00%
+    toyota corolla: 0.00%
+
+Image: DATA/test\clio\back241.jpg
+    clio: 100.00%
+    megane: 0.00%
+    bmw serie 1: 0.00%
+    mercedes class a: 0.00%
+    toyota corolla: 0.00%
+
+Image: DATA/test\clio\back256.jpg
+    clio: 99.99%
+    megane: 0.01%
+    Golf: 0.00%
+    hyundai i10: 0.00%
+    mercedes class a: 0.00%
+
+Image: DATA/test\clio\back259.jpg
+    clio: 82.87%
+    megane: 4.89%
+    chevroulet aveo: 4.28%
+    sandero: 2.34%
+    seat ibiza: 2.17%
+
+Image: DATA/test\clio\back262.jpg
+    clio: 96.91%
+    megane: 3.09%
+    toyota corolla: 0.00%
+    symbol: 0.00%
+    hyundai i10: 0.00%
+
+Image: DATA/test\clio\back263.jpg
+    clio: 100.00%
+    megane: 0.00%
+    toyota corolla: 0.00%
+    bmw serie 1: 0.00%
+    hyundai i10: 0.00%
+
+Image: DATA/test\clio\back266.jpg
+    clio: 100.00%
+    megane: 0.00%
+    bmw serie 1: 0.00%
+    toyota corolla: 0.00%
+    mercedes class a: 0.00%
+
+Image: DATA/test\clio\back269.jpg
+    clio: 100.00%
+    toyota corolla: 0.00%
+    megane: 0.00%
+    bmw serie 1: 0.00%
+    mercedes class a: 0.00%
+
+Image: DATA/test\clio\back290.jpg
+    clio: 100.00%
+    megane: 0.00%
+    toyota corolla: 0.00%
+    bmw serie 1: 0.00%
+    mercedes class a: 0.00%
+
+Image: DATA/test\clio\back292.jpg
+    clio: 100.00%
+    megane: 0.00%
+    bmw serie 1: 0.00%
+    toyota corolla: 0.00%
+    mercedes class a: 0.00%
+
+Image: DATA/test\clio\back297.jpg
+    clio: 100.00%
+    megane: 0.00%
+    hyundai tucson: 0.00%
+    mercedes class a: 0.00%
+    chevroulet aveo: 0.00%
+
+Image: DATA/test\clio\back306.jpg
+    clio: 99.94%
+    megane: 0.03%
+    toyota corolla: 0.02%
+    bmw serie 1: 0.01%
+    chevrolet spark: 0.00%
+
+Image: DATA/test\clio\back308.jpg
+    clio: 100.00%
+    megane: 0.00%
+    bmw serie 1: 0.00%
+    toyota corolla: 0.00%
+    mercedes class a: 0.00%
+
+Image: DATA/test\clio\back315.jpg
+    clio: 100.00%
+    megane: 0.00%
+    bmw serie 1: 0.00%
+    toyota corolla: 0.00%
+    mercedes class a: 0.00%
+
+Image: DATA/test\clio\back321.jpg
+    clio: 100.00%
+    megane: 0.00%
+    hyundai i10: 0.00%
+    mercedes class a: 0.00%
+    toyota corolla: 0.00%
+
+Image: DATA/test\clio\car160.jpg
+    clio: 99.96%
+    toyota corolla: 0.03%
+    megane: 0.00%
+    chevroulet aveo: 0.00%
+    bmw serie 1: 0.00%
+
+Image: DATA/test\clio\car170.jpg
+    clio: 100.00%
+    megane: 0.00%
+    bmw serie 1: 0.00%
+    mercedes class a: 0.00%
+    toyota corolla: 0.00%
+
+Image: DATA/test\clio\car172.jpg
+    clio: 100.00%
+    chevrolet spark: 0.00%
+    toyota corolla: 0.00%
+    hyundai i10: 0.00%
+    megane: 0.00%
+
+Image: DATA/test\clio\car175.jpg
+    clio: 100.00%
+    mercedes class a: 0.00%
+    toyota corolla: 0.00%
+    megane: 0.00%
+    bmw serie 1: 0.00%
+
+Image: DATA/test\clio\car176.jpg
+    clio: 61.90%
+    toyota corolla: 30.37%
+    hyundai tucson: 3.41%
+    volkswagen tiguan: 0.76%
+    sandero: 0.71%
+
+Image: DATA/test\clio\car179.jpg
+    clio: 100.00%
+    megane: 0.00%
+    bmw serie 1: 0.00%
+    mercedes class a: 0.00%
+    toyota corolla: 0.00%
+
+Image: DATA/test\clio\car181.jpg
+    clio: 63.50%
+    toyota corolla: 26.65%
+    symbol: 8.83%
+    megane: 0.77%
+    hyundai tucson: 0.17%
+
+Image: DATA/test\clio\car184.jpg
+    clio: 100.00%
+    megane: 0.00%
+    toyota corolla: 0.00%
+    mercedes class a: 0.00%
+    hyundai i10: 0.00%
+
+Image: DATA/test\clio\car188.jpg
+    Golf: 86.11%
+    clio: 6.85%
+    megane: 3.60%
+    bmw serie 1: 1.47%
+    polo: 0.89%
+
+Image: DATA/test\clio\car193.jpg
+    clio: 99.84%
+    megane: 0.15%
+    mercedes class a: 0.01%
+    chevroulet aveo: 0.00%
+    bmw serie 1: 0.00%
+
+Image: DATA/test\clio\car195.jpg
+    clio: 100.00%
+    toyota corolla: 0.00%
+    megane: 0.00%
+    mercedes class a: 0.00%
+    bmw serie 1: 0.00%
+
+Image: DATA/test\clio\car204.jpg
+    clio: 82.82%
+    megane: 17.00%
+    Golf: 0.07%
+    sandero: 0.05%
+    bmw serie 1: 0.05%
+
+Image: DATA/test\clio\car218.jpg
+    clio: 100.00%
+    megane: 0.00%
+    toyota corolla: 0.00%
+    mercedes class a: 0.00%
+    bmw serie 1: 0.00%
+
+Image: DATA/test\clio\car224.jpg
+    clio: 100.00%
+    megane: 0.00%
+    mercedes class a: 0.00%
+    toyota corolla: 0.00%
+    hyundai i10: 0.00%
+
+Image: DATA/test\clio\car226.jpg
+    clio: 100.00%
+    megane: 0.00%
+    mercedes class a: 0.00%
+    bmw serie 1: 0.00%
+    toyota corolla: 0.00%
+
+Image: DATA/test\clio\car241.jpg
+    clio: 100.00%
+    megane: 0.00%
+    bmw serie 1: 0.00%
+    hyundai i10: 0.00%
+    toyota corolla: 0.00%
+
+Image: DATA/test\clio\car261.jpg
+    clio: 100.00%
+    megane: 0.00%
+    mercedes class a: 0.00%
+    bmw serie 1: 0.00%
+    Golf: 0.00%
+
+Image: DATA/test\clio\car264.jpg
+    clio: 100.00%
+    megane: 0.00%
+    mercedes class a: 0.00%
+    toyota corolla: 0.00%
+    bmw serie 1: 0.00%
+
+Image: DATA/test\clio\car269.jpg
+    clio: 100.00%
+    bmw serie 1: 0.00%
+    toyota corolla: 0.00%
+    mercedes class a: 0.00%
+    megane: 0.00%
+
+Image: DATA/test\clio\car272.jpg
+    clio: 100.00%
+    bmw serie 1: 0.00%
+    megane: 0.00%
+    toyota corolla: 0.00%
+    mercedes class a: 0.00%
+
+Image: DATA/test\clio\car278.jpg
+    clio: 100.00%
+    megane: 0.00%
+    bmw serie 1: 0.00%
+    mercedes class a: 0.00%
+    hyundai tucson: 0.00%
+
+Image: DATA/test\clio\car288.jpg
+    clio: 99.78%
+    megane: 0.14%
+    Golf: 0.08%
+    sandero: 0.00%
+    toyota corolla: 0.00%
+
+Image: DATA/test\clio\car291.jpg
+    clio: 100.00%
+    megane: 0.00%
+    bmw serie 1: 0.00%
+    mercedes class a: 0.00%
+    toyota corolla: 0.00%
+
+Image: DATA/test\clio\car293.jpg
+    clio: 100.00%
+    megane: 0.00%
+    toyota corolla: 0.00%
+    mercedes class a: 0.00%
+    hyundai i10: 0.00%
+
+Image: DATA/test\clio\car294.jpg
+    clio: 90.41%
+    duster: 8.37%
+    megane: 1.06%
+    bmw serie 1: 0.08%
+    Golf: 0.02%
+
+Image: DATA/test\clio\car296.jpg
+    chevroulet aveo: 76.11%
+    toyota corolla: 6.63%
+    clio: 6.27%
+    Golf: 2.46%
+    octavia: 2.46%
+
+Image: DATA/test\clio\car304.jpg
+    clio: 100.00%
+    toyota corolla: 0.00%
+    mercedes class a: 0.00%
+    bmw serie 1: 0.00%
+    megane: 0.00%
+
+Image: DATA/test\clio\car308.jpg
+    clio: 100.00%
+    megane: 0.00%
+    bmw serie 1: 0.00%
+    toyota corolla: 0.00%
+    mercedes class a: 0.00%
+
+Image: DATA/test\clio\car310.jpg
+    clio: 100.00%
+    mercedes class a: 0.00%
+    bmw serie 1: 0.00%
+    megane: 0.00%
+    toyota corolla: 0.00%
+
+Image: DATA/test\clio\car312.jpg
+    clio: 96.77%
+    megane: 2.46%
+    toyota corolla: 0.74%
+    bmw serie 1: 0.02%
+    symbol: 0.01%
+
+Image: DATA/test\clio\car319.jpg
+    clio: 100.00%
+    megane: 0.00%
+    bmw serie 1: 0.00%
+    mercedes class a: 0.00%
+    hyundai i10: 0.00%
+
+Image: DATA/test\clio\car322.jpg
+    clio: 100.00%
+    megane: 0.00%
+    nemo citroen: 0.00%
+    bmw serie 1: 0.00%
+    toyota corolla: 0.00%
+
+Image: DATA/test\clio\car329.jpg
+    clio: 100.00%
+    megane: 0.00%
+    mercedes class a: 0.00%
+    bmw serie 1: 0.00%
+    toyota corolla: 0.00%
+
+Image: DATA/test\duster\back336.jpg
+    duster: 100.00%
+    volkswagen tiguan: 0.00%
+    nemo citroen: 0.00%
+    hyundai i10: 0.00%
+    hyundai tucson: 0.00%
+
+Image: DATA/test\duster\back338.jpg
+    duster: 100.00%
+    volkswagen tiguan: 0.00%
+    nemo citroen: 0.00%
+    bmw serie 1: 0.00%
+    hyundai i10: 0.00%
+
+Image: DATA/test\duster\back341.jpg
+    duster: 100.00%
+    volkswagen tiguan: 0.00%
+    sandero: 0.00%
+    nemo citroen: 0.00%
+    hyundai tucson: 0.00%
+
+Image: DATA/test\duster\back347.jpg
+    duster: 100.00%
+    hyundai tucson: 0.00%
+    volkswagen tiguan: 0.00%
+    nemo citroen: 0.00%
+    sandero: 0.00%
+
+Image: DATA/test\duster\back352.jpg
+    duster: 100.00%
+    volkswagen tiguan: 0.00%
+    hyundai i10: 0.00%
+    nemo citroen: 0.00%
+    picanto: 0.00%
+
+Image: DATA/test\duster\back358.jpg
+    duster: 100.00%
+    volkswagen tiguan: 0.00%
+    sandero: 0.00%
+    mercedes class a: 0.00%
+    picanto: 0.00%
+
+Image: DATA/test\duster\back362.jpg
+    duster: 100.00%
+    volkswagen tiguan: 0.00%
+    hyundai i10: 0.00%
+    bmw serie 1: 0.00%
+    sandero: 0.00%
+
+Image: DATA/test\duster\back366.jpg
+    duster: 100.00%
+    volkswagen tiguan: 0.00%
+    nemo citroen: 0.00%
+    sandero: 0.00%
+    bmw serie 1: 0.00%
+
+Image: DATA/test\duster\back367.jpg
+    duster: 100.00%
+    volkswagen tiguan: 0.00%
+    mercedes class a: 0.00%
+    megane: 0.00%
+    clio: 0.00%
+
+Image: DATA/test\duster\back370.jpg
+    duster: 100.00%
+    volkswagen tiguan: 0.00%
+    nemo citroen: 0.00%
+    sandero: 0.00%
+    picanto: 0.00%
+
+Image: DATA/test\duster\back371.jpg
+    duster: 99.99%
+    hyundai tucson: 0.01%
+    seat ibiza: 0.00%
+    nemo citroen: 0.00%
+    volkswagen tiguan: 0.00%
+
+Image: DATA/test\duster\back377.jpg
+    duster: 100.00%
+    volkswagen tiguan: 0.00%
+    picanto: 0.00%
+    nemo citroen: 0.00%
+    sandero: 0.00%
+
+Image: DATA/test\duster\back386.jpg
+    duster: 100.00%
+    volkswagen tiguan: 0.00%
+    nemo citroen: 0.00%
+    picanto: 0.00%
+    logan: 0.00%
+
+Image: DATA/test\duster\back393.jpg
+    duster: 100.00%
+    volkswagen tiguan: 0.00%
+    nemo citroen: 0.00%
+    sandero: 0.00%
+    picanto: 0.00%
+
+Image: DATA/test\duster\back400.jpg
+    duster: 100.00%
+    volkswagen tiguan: 0.00%
+    chevroulet aveo: 0.00%
+    nemo citroen: 0.00%
+    bmw serie 1: 0.00%
+
+Image: DATA/test\duster\back404.jpg
+    duster: 98.22%
+    volkswagen tiguan: 1.78%
+    hyundai tucson: 0.00%
+    chevroulet aveo: 0.00%
+    hyundai i10: 0.00%
+
+Image: DATA/test\duster\back417.jpg
+    duster: 100.00%
+    sandero: 0.00%
+    nemo citroen: 0.00%
+    chevroulet aveo: 0.00%
+    hyundai tucson: 0.00%
+
+Image: DATA/test\duster\back421.jpg
+    duster: 100.00%
+    volkswagen tiguan: 0.00%
+    chevroulet aveo: 0.00%
+    hyundai i10: 0.00%
+    sandero: 0.00%
+
+Image: DATA/test\duster\back424.jpg
+    duster: 100.00%
+    volkswagen tiguan: 0.00%
+    chevroulet aveo: 0.00%
+    hyundai i10: 0.00%
+    nemo citroen: 0.00%
+
+Image: DATA/test\duster\back438.jpg
+    sandero: 98.30%
+    duster: 1.19%
+    logan: 0.33%
+    Golf: 0.10%
+    chevroulet aveo: 0.04%
+
+Image: DATA/test\duster\back441.jpg
+    duster: 100.00%
+    volkswagen tiguan: 0.00%
+    hyundai i10: 0.00%
+    nemo citroen: 0.00%
+    picanto: 0.00%
+
+Image: DATA/test\duster\back448.jpg
+    duster: 100.00%
+    volkswagen tiguan: 0.00%
+    chevroulet aveo: 0.00%
+    nemo citroen: 0.00%
+    bmw serie 1: 0.00%
+
+Image: DATA/test\duster\back457.jpg
+    duster: 100.00%
+    sandero: 0.00%
+    chevroulet aveo: 0.00%
+    volkswagen tiguan: 0.00%
+    hyundai tucson: 0.00%
+
+Image: DATA/test\duster\back462.jpg
+    clio: 51.99%
+    sandero: 12.12%
+    megane: 10.56%
+    seat ibiza: 9.49%
+    nemo citroen: 5.40%
+
+Image: DATA/test\duster\back470.jpg
+    duster: 100.00%
+    volkswagen tiguan: 0.00%
+    hyundai i10: 0.00%
+    nemo citroen: 0.00%
+    picanto: 0.00%
+
+Image: DATA/test\duster\car341.jpg
+    duster: 100.00%
+    volkswagen tiguan: 0.00%
+    nemo citroen: 0.00%
+    picanto: 0.00%
+    sandero: 0.00%
+
+Image: DATA/test\duster\car352.jpg
+    duster: 100.00%
+    volkswagen tiguan: 0.00%
+    picanto: 0.00%
+    hyundai i10: 0.00%
+    nemo citroen: 0.00%
+
+Image: DATA/test\duster\car362.jpg
+    duster: 100.00%
+    volkswagen tiguan: 0.00%
+    bmw serie 1: 0.00%
+    nemo citroen: 0.00%
+    hyundai i10: 0.00%
+
+Image: DATA/test\duster\car363.jpg
+    duster: 100.00%
+    volkswagen tiguan: 0.00%
+    nemo citroen: 0.00%
+    picanto: 0.00%
+    hyundai i10: 0.00%
+
+Image: DATA/test\duster\car368.jpg
+    duster: 100.00%
+    volkswagen tiguan: 0.00%
+    chevroulet aveo: 0.00%
+    nemo citroen: 0.00%
+    picanto: 0.00%
+
+Image: DATA/test\duster\car371.jpg
+    duster: 100.00%
+    hyundai tucson: 0.00%
+    nemo citroen: 0.00%
+    seat ibiza: 0.00%
+    volkswagen tiguan: 0.00%
+
+Image: DATA/test\duster\car382.jpg
+    duster: 100.00%
+    volkswagen tiguan: 0.00%
+    chevroulet aveo: 0.00%
+    nemo citroen: 0.00%
+    megane: 0.00%
+
+Image: DATA/test\duster\car383.jpg
+    duster: 100.00%
+    volkswagen tiguan: 0.00%
+    megane: 0.00%
+    hyundai i10: 0.00%
+    mercedes class a: 0.00%
+
+Image: DATA/test\duster\car391.jpg
+    duster: 100.00%
+    volkswagen tiguan: 0.00%
+    nemo citroen: 0.00%
+    picanto: 0.00%
+    hyundai tucson: 0.00%
+
+Image: DATA/test\duster\car394.jpg
+    duster: 100.00%
+    volkswagen tiguan: 0.00%
+    toyota corolla: 0.00%
+    bmw serie 1: 0.00%
+    chevrolet spark: 0.00%
+
+Image: DATA/test\duster\car399.jpg
+    duster: 100.00%
+    volkswagen tiguan: 0.00%
+    nemo citroen: 0.00%
+    hyundai i10: 0.00%
+    chevroulet aveo: 0.00%
+
+Image: DATA/test\duster\car406.jpg
+    duster: 100.00%
+    volkswagen tiguan: 0.00%
+    hyundai tucson: 0.00%
+    chevroulet aveo: 0.00%
+    sandero: 0.00%
+
+Image: DATA/test\duster\car410.jpg
+    duster: 100.00%
+    volkswagen tiguan: 0.00%
+    nemo citroen: 0.00%
+    megane: 0.00%
+    hyundai i10: 0.00%
+
+Image: DATA/test\duster\car415.jpg
+    duster: 100.00%
+    nemo citroen: 0.00%
+    hyundai tucson: 0.00%
+    volkswagen tiguan: 0.00%
+    sandero: 0.00%
+
+Image: DATA/test\duster\car428.jpg
+    duster: 100.00%
+    volkswagen tiguan: 0.00%
+    megane: 0.00%
+    chevroulet aveo: 0.00%
+    nemo citroen: 0.00%
+
+Image: DATA/test\duster\car434.jpg
+    duster: 100.00%
+    volkswagen tiguan: 0.00%
+    nemo citroen: 0.00%
+    seat ibiza: 0.00%
+    picanto: 0.00%
+
+Image: DATA/test\duster\car435.jpg
+    duster: 100.00%
+    volkswagen tiguan: 0.00%
+    nemo citroen: 0.00%
+    seat ibiza: 0.00%
+    picanto: 0.00%
+
+Image: DATA/test\duster\car439.jpg
+    duster: 99.99%
+    chevroulet aveo: 0.01%
+    volkswagen tiguan: 0.00%
+    sandero: 0.00%
+    hyundai tucson: 0.00%
+
+Image: DATA/test\duster\car441.jpg
+    duster: 100.00%
+    volkswagen tiguan: 0.00%
+    hyundai i10: 0.00%
+    nemo citroen: 0.00%
+    picanto: 0.00%
+
+Image: DATA/test\duster\car442.jpg
+    duster: 100.00%
+    nemo citroen: 0.00%
+    hyundai i10: 0.00%
+    volkswagen tiguan: 0.00%
+    picanto: 0.00%
+
+Image: DATA/test\duster\car454.jpg
+    duster: 100.00%
+    volkswagen tiguan: 0.00%
+    picanto: 0.00%
+    nemo citroen: 0.00%
+    hyundai i10: 0.00%
+
+Image: DATA/test\duster\car459.jpg
+    duster: 99.88%
+    chevroulet aveo: 0.09%
+    volkswagen tiguan: 0.01%
+    sandero: 0.00%
+    megane: 0.00%
+
+Image: DATA/test\duster\car460.jpg
+    duster: 100.00%
+    volkswagen tiguan: 0.00%
+    sandero: 0.00%
+    nemo citroen: 0.00%
+    hyundai tucson: 0.00%
+
+Image: DATA/test\duster\car461.jpg
+    duster: 100.00%
+    volkswagen tiguan: 0.00%
+    sandero: 0.00%
+    nemo citroen: 0.00%
+    hyundai tucson: 0.00%
+
+Image: DATA/test\duster\car463.jpg
+    chevroulet aveo: 77.67%
+    mercedes class a: 5.25%
+    clio: 5.08%
+    bmw serie 1: 4.76%
+    nemo citroen: 2.65%
+
+Image: DATA/test\hyundai i10\back553.jpg
+    hyundai i10: 98.33%
+    chevroulet aveo: 1.36%
+    Golf: 0.12%
+    duster: 0.09%
+    chevrolet spark: 0.08%
+
+Image: DATA/test\hyundai i10\back561.jpg
+    hyundai i10: 99.77%
+    clio: 0.08%
+    symbol: 0.05%
+    picanto: 0.04%
+    megane: 0.02%
+
+Image: DATA/test\hyundai i10\back567.jpg
+    hyundai i10: 99.89%
+    megane: 0.02%
+    symbol: 0.02%
+    octavia: 0.02%
+    clio: 0.02%
+
+Image: DATA/test\hyundai i10\back570.jpg
+    polo: 83.51%
+    octavia: 4.74%
+    symbol: 3.82%
+    logan: 3.16%
+    picanto: 2.10%
+
+Image: DATA/test\hyundai i10\back574.jpg
+    hyundai i10: 100.00%
+    polo: 0.00%
+    symbol: 0.00%
+    picanto: 0.00%
+    toyota corolla: 0.00%
+
+Image: DATA/test\hyundai i10\back576.jpg
+    hyundai i10: 98.28%
+    chevrolet spark: 1.03%
+    picanto: 0.37%
+    toyota corolla: 0.14%
+    chevroulet aveo: 0.06%
+
+Image: DATA/test\hyundai i10\back583.jpg
+    hyundai i10: 99.80%
+    clio: 0.11%
+    volkswagen tiguan: 0.03%
+    sandero: 0.02%
+    chevroulet aveo: 0.01%
+
+Image: DATA/test\hyundai i10\back594.jpg
+    hyundai i10: 99.94%
+    polo: 0.03%
+    volkswagen tiguan: 0.02%
+    hyundai tucson: 0.00%
+    toyota corolla: 0.00%
+
+Image: DATA/test\hyundai i10\back599.jpg
+    symbol: 72.80%
+    toyota corolla: 15.57%
+    polo: 3.18%
+    clio: 2.85%
+    mercedes class a: 1.55%
+
+Image: DATA/test\hyundai i10\back605.jpg
+    picanto: 27.43%
+    seat ibiza: 25.87%
+    hyundai i10: 17.59%
+    chevroulet aveo: 7.67%
+    toyota corolla: 6.36%
+
+Image: DATA/test\hyundai i10\back606.jpg
+    hyundai i10: 99.18%
+    polo: 0.32%
+    chevrolet spark: 0.14%
+    megane: 0.13%
+    nemo citroen: 0.09%
+
+Image: DATA/test\hyundai i10\car556.jpg
+    hyundai i10: 88.37%
+    chevrolet spark: 8.65%
+    toyota corolla: 1.56%
+    clio: 1.24%
+    picanto: 0.08%
+
+Image: DATA/test\hyundai i10\car564.jpg
+    hyundai i10: 99.77%
+    clio: 0.17%
+    picanto: 0.04%
+    chevrolet spark: 0.01%
+    mercedes class a: 0.01%
+
+Image: DATA/test\hyundai i10\car576.jpg
+    hyundai i10: 99.49%
+    chevrolet spark: 0.39%
+    clio: 0.07%
+    picanto: 0.02%
+    toyota corolla: 0.01%
+
+Image: DATA/test\hyundai i10\car581.jpg
+    hyundai i10: 58.09%
+    picanto: 30.81%
+    clio: 3.33%
+    mercedes class a: 2.99%
+    bmw serie 1: 1.60%
+
+Image: DATA/test\hyundai i10\car584.jpg
+    hyundai i10: 99.62%
+    picanto: 0.25%
+    octavia: 0.06%
+    chevroulet aveo: 0.02%
+    chevrolet spark: 0.01%
+
+Image: DATA/test\hyundai i10\car590.jpg
+    hyundai i10: 94.48%
+    picanto: 2.44%
+    octavia: 1.24%
+    volkswagen tiguan: 0.94%
+    chevrolet spark: 0.30%
+
+Image: DATA/test\hyundai i10\car597.jpg
+    hyundai i10: 99.97%
+    symbol: 0.01%
+    toyota corolla: 0.01%
+    polo: 0.00%
+    chevrolet spark: 0.00%
+
+Image: DATA/test\hyundai i10\car600.jpg
+    hyundai i10: 100.00%
+    volkswagen tiguan: 0.00%
+    picanto: 0.00%
+    toyota corolla: 0.00%
+    chevrolet spark: 0.00%
+
+Image: DATA/test\hyundai i10\car608.jpg
+    hyundai i10: 99.97%
+    nemo citroen: 0.02%
+    clio: 0.00%
+    megane: 0.00%
+    toyota corolla: 0.00%
+
+Image: DATA/test\hyundai i10\car612.jpg
+    hyundai i10: 99.97%
+    polo: 0.02%
+    chevrolet spark: 0.00%
+    symbol: 0.00%
+    Golf: 0.00%
+
+Image: DATA/test\hyundai i10\car613.jpg
+    hyundai i10: 99.79%
+    polo: 0.21%
+    symbol: 0.00%
+    volkswagen tiguan: 0.00%
+    picanto: 0.00%
+
+Image: DATA/test\hyundai i10\car614.jpg
+    hyundai i10: 86.70%
+    clio: 6.53%
+    toyota corolla: 2.87%
+    chevrolet spark: 1.84%
+    mercedes class a: 0.96%
+
+Image: DATA/test\hyundai tucson\back620.jpg
+    hyundai tucson: 99.75%
+    volkswagen tiguan: 0.25%
+    mercedes class a: 0.00%
+    seat ibiza: 0.00%
+    chevroulet aveo: 0.00%
+
+Image: DATA/test\hyundai tucson\back625.jpg
+    hyundai tucson: 99.96%
+    volkswagen tiguan: 0.04%
+    toyota corolla: 0.00%
+    clio: 0.00%
+    mercedes class a: 0.00%
+
+Image: DATA/test\hyundai tucson\back635.jpg
+    hyundai tucson: 94.93%
+    mercedes class a: 4.60%
+    clio: 0.21%
+    chevrolet spark: 0.10%
+    volkswagen tiguan: 0.09%
+
+Image: DATA/test\hyundai tucson\back641.jpg
+    hyundai tucson: 100.00%
+    volkswagen tiguan: 0.00%
+    mercedes class a: 0.00%
+    clio: 0.00%
+    chevrolet spark: 0.00%
+
+Image: DATA/test\hyundai tucson\back644.jpg
+    hyundai tucson: 100.00%
+    volkswagen tiguan: 0.00%
+    mercedes class a: 0.00%
+    clio: 0.00%
+    toyota corolla: 0.00%
+
+Image: DATA/test\hyundai tucson\back646.jpg
+    hyundai tucson: 100.00%
+    mercedes class a: 0.00%
+    volkswagen tiguan: 0.00%
+    clio: 0.00%
+    toyota corolla: 0.00%
+
+Image: DATA/test\hyundai tucson\back654.jpg
+    hyundai tucson: 99.99%
+    volkswagen tiguan: 0.01%
+    toyota corolla: 0.00%
+    sandero: 0.00%
+    chevroulet aveo: 0.00%
+
+Image: DATA/test\hyundai tucson\back662.jpg
+    hyundai tucson: 98.02%
+    toyota corolla: 1.01%
+    volkswagen tiguan: 0.94%
+    clio: 0.02%
+    chevrolet spark: 0.01%
+
+Image: DATA/test\hyundai tucson\back666.jpg
+    hyundai tucson: 100.00%
+    mercedes class a: 0.00%
+    clio: 0.00%
+    volkswagen tiguan: 0.00%
+    symbol: 0.00%
+
+Image: DATA/test\hyundai tucson\back667.jpg
+    hyundai tucson: 99.97%
+    mercedes class a: 0.03%
+    volkswagen tiguan: 0.00%
+    chevrolet spark: 0.00%
+    clio: 0.00%
+
+Image: DATA/test\hyundai tucson\back668.jpg
+    symbol: 64.25%
+    megane: 15.57%
+    toyota corolla: 13.91%
+    hyundai tucson: 2.67%
+    clio: 1.34%
+
+Image: DATA/test\hyundai tucson\back669.jpg
+    hyundai tucson: 40.92%
+    logan: 37.76%
+    chevroulet aveo: 16.05%
+    megane: 1.38%
+    Golf: 1.25%
+
+Image: DATA/test\hyundai tucson\back671.jpg
+    hyundai tucson: 100.00%
+    volkswagen tiguan: 0.00%
+    toyota corolla: 0.00%
+    octavia: 0.00%
+    sandero: 0.00%
+
+Image: DATA/test\hyundai tucson\back676.jpg
+    hyundai tucson: 100.00%
+    volkswagen tiguan: 0.00%
+    toyota corolla: 0.00%
+    clio: 0.00%
+    picanto: 0.00%
+
+Image: DATA/test\hyundai tucson\car624.jpg
+    hyundai tucson: 99.94%
+    volkswagen tiguan: 0.03%
+    toyota corolla: 0.01%
+    mercedes class a: 0.01%
+    clio: 0.00%
+
+Image: DATA/test\hyundai tucson\car625.jpg
+    hyundai tucson: 99.94%
+    volkswagen tiguan: 0.03%
+    toyota corolla: 0.01%
+    mercedes class a: 0.01%
+    clio: 0.00%
+
+Image: DATA/test\hyundai tucson\car627.jpg
+    hyundai tucson: 100.00%
+    toyota corolla: 0.00%
+    volkswagen tiguan: 0.00%
+    sandero: 0.00%
+    symbol: 0.00%
+
+Image: DATA/test\hyundai tucson\car635.jpg
+    hyundai tucson: 74.37%
+    mercedes class a: 15.52%
+    chevrolet spark: 5.53%
+    megane: 1.85%
+    clio: 0.86%
+
+Image: DATA/test\hyundai tucson\car638.jpg
+    hyundai tucson: 100.00%
+    volkswagen tiguan: 0.00%
+    sandero: 0.00%
+    toyota corolla: 0.00%
+    chevroulet aveo: 0.00%
+
+Image: DATA/test\hyundai tucson\car645.jpg
+    mercedes class a: 83.37%
+    hyundai tucson: 8.53%
+    clio: 7.69%
+    chevrolet spark: 0.18%
+    megane: 0.11%
+
+Image: DATA/test\hyundai tucson\car647.jpg
+    hyundai tucson: 100.00%
+    volkswagen tiguan: 0.00%
+    toyota corolla: 0.00%
+    clio: 0.00%
+    chevrolet spark: 0.00%
+
+Image: DATA/test\hyundai tucson\car658.jpg
+    hyundai tucson: 100.00%
+    volkswagen tiguan: 0.00%
+    symbol: 0.00%
+    clio: 0.00%
+    toyota corolla: 0.00%
+
+Image: DATA/test\hyundai tucson\car663.jpg
+    hyundai tucson: 99.95%
+    toyota corolla: 0.05%
+    volkswagen tiguan: 0.00%
+    clio: 0.00%
+    chevroulet aveo: 0.00%
+
+Image: DATA/test\logan\back682.jpg
+    logan: 100.00%
+    sandero: 0.00%
+    volkswagen tiguan: 0.00%
+    bmw serie 1: 0.00%
+    symbol: 0.00%
+
+Image: DATA/test\logan\back685.jpg
+    logan: 100.00%
+    sandero: 0.00%
+    megane: 0.00%
+    volkswagen tiguan: 0.00%
+    symbol: 0.00%
+
+Image: DATA/test\logan\back700.jpg
+    polo: 32.30%
+    Golf: 25.21%
+    mercedes class a: 16.05%
+    megane: 8.27%
+    duster: 5.20%
+
+Image: DATA/test\logan\back703.jpg
+    logan: 100.00%
+    sandero: 0.00%
+    volkswagen tiguan: 0.00%
+    bmw serie 1: 0.00%
+    symbol: 0.00%
+
+Image: DATA/test\logan\back705.jpg
+    logan: 99.95%
+    sandero: 0.05%
+    bmw serie 1: 0.00%
+    symbol: 0.00%
+    chevroulet aveo: 0.00%
+
+Image: DATA/test\logan\back711.jpg
+    logan: 100.00%
+    sandero: 0.00%
+    volkswagen tiguan: 0.00%
+    nemo citroen: 0.00%
+    bmw serie 1: 0.00%
+
+Image: DATA/test\logan\back718.jpg
+    logan: 99.67%
+    sandero: 0.15%
+    symbol: 0.11%
+    chevroulet aveo: 0.06%
+    hyundai tucson: 0.01%
+
+Image: DATA/test\logan\back724.jpg
+    logan: 73.65%
+    sandero: 26.35%
+    bmw serie 1: 0.00%
+    mercedes class a: 0.00%
+    nemo citroen: 0.00%
+
+Image: DATA/test\logan\back725.jpg
+    logan: 93.14%
+    volkswagen tiguan: 6.86%
+    Golf: 0.00%
+    duster: 0.00%
+    sandero: 0.00%
+
+Image: DATA/test\logan\back730.jpg
+    duster: 92.76%
+    volkswagen tiguan: 7.06%
+    chevroulet aveo: 0.11%
+    hyundai i10: 0.03%
+    logan: 0.03%
+
+Image: DATA/test\logan\back736.jpg
+    logan: 99.97%
+    sandero: 0.03%
+    symbol: 0.00%
+    volkswagen tiguan: 0.00%
+    bmw serie 1: 0.00%
+
+Image: DATA/test\logan\car681.jpg
+    logan: 100.00%
+    sandero: 0.00%
+    volkswagen tiguan: 0.00%
+    bmw serie 1: 0.00%
+    chevroulet aveo: 0.00%
+
+Image: DATA/test\logan\car690.jpg
+    volkswagen tiguan: 78.56%
+    sandero: 7.21%
+    Golf: 4.57%
+    clio: 4.42%
+    logan: 2.65%
+
+Image: DATA/test\logan\car691.jpg
+    logan: 99.66%
+    nemo citroen: 0.14%
+    chevroulet aveo: 0.12%
+    hyundai tucson: 0.05%
+    sandero: 0.01%
+
+Image: DATA/test\logan\car696.jpg
+    logan: 99.97%
+    megane: 0.02%
+    sandero: 0.01%
+    toyota corolla: 0.00%
+    Golf: 0.00%
+
+Image: DATA/test\logan\car700.jpg
+    Golf: 61.82%
+    megane: 26.14%
+    polo: 7.86%
+    volkswagen tiguan: 1.75%
+    mercedes class a: 0.97%
+
+Image: DATA/test\logan\car712.jpg
+    logan: 99.99%
+    sandero: 0.01%
+    seat ibiza: 0.00%
+    mercedes class a: 0.00%
+    volkswagen tiguan: 0.00%
+
+Image: DATA/test\logan\car716.jpg
+    logan: 100.00%
+    megane: 0.00%
+    sandero: 0.00%
+    volkswagen tiguan: 0.00%
+    symbol: 0.00%
+
+Image: DATA/test\logan\car719.jpg
+    logan: 99.88%
+    megane: 0.12%
+    sandero: 0.00%
+    volkswagen tiguan: 0.00%
+    symbol: 0.00%
+
+Image: DATA/test\logan\car729.jpg
+    logan: 99.63%
+    volkswagen tiguan: 0.25%
+    bmw serie 1: 0.08%
+    sandero: 0.03%
+    mercedes class a: 0.00%
+
+Image: DATA/test\megane\back737.jpg
+    megane: 100.00%
+    clio: 0.00%
+    mercedes class a: 0.00%
+    Golf: 0.00%
+    polo: 0.00%
+
+Image: DATA/test\megane\back742.jpg
+    megane: 100.00%
+    mercedes class a: 0.00%
+    hyundai tucson: 0.00%
+    volkswagen tiguan: 0.00%
+    Golf: 0.00%
+
+Image: DATA/test\megane\back751.jpg
+    megane: 100.00%
+    clio: 0.00%
+    Golf: 0.00%
+    mercedes class a: 0.00%
+    bmw serie 1: 0.00%
+
+Image: DATA/test\megane\back753.jpg
+    megane: 100.00%
+    clio: 0.00%
+    volkswagen tiguan: 0.00%
+    mercedes class a: 0.00%
+    symbol: 0.00%
+
+Image: DATA/test\megane\back754.jpg
+    megane: 100.00%
+    clio: 0.00%
+    volkswagen tiguan: 0.00%
+    mercedes class a: 0.00%
+    symbol: 0.00%
+
+Image: DATA/test\megane\back755.jpg
+    megane: 100.00%
+    clio: 0.00%
+    mercedes class a: 0.00%
+    Golf: 0.00%
+    bmw serie 1: 0.00%
+
+Image: DATA/test\megane\back758.jpg
+    megane: 100.00%
+    Golf: 0.00%
+    symbol: 0.00%
+    volkswagen tiguan: 0.00%
+    mercedes class a: 0.00%
+
+Image: DATA/test\megane\back763.jpg
+    megane: 99.92%
+    sandero: 0.04%
+    symbol: 0.03%
+    duster: 0.00%
+    chevroulet aveo: 0.00%
+
+Image: DATA/test\megane\back767.jpg
+    megane: 95.85%
+    symbol: 2.32%
+    logan: 1.51%
+    hyundai tucson: 0.17%
+    Golf: 0.09%
+
+Image: DATA/test\megane\back774.jpg
+    megane: 100.00%
+    volkswagen tiguan: 0.00%
+    Golf: 0.00%
+    clio: 0.00%
+    symbol: 0.00%
+
+Image: DATA/test\megane\back778.jpg
+    megane: 97.14%
+    mercedes class a: 2.01%
+    clio: 0.80%
+    toyota corolla: 0.01%
+    polo: 0.01%
+
+Image: DATA/test\megane\back784.jpg
+    chevroulet aveo: 34.95%
+    Golf: 34.36%
+    megane: 17.74%
+    sandero: 3.49%
+    clio: 2.88%
+
+Image: DATA/test\megane\back789.jpg
+    megane: 100.00%
+    volkswagen tiguan: 0.00%
+    Golf: 0.00%
+    symbol: 0.00%
+    clio: 0.00%
+
+Image: DATA/test\megane\back792.jpg
+    megane: 100.00%
+    clio: 0.00%
+    volkswagen tiguan: 0.00%
+    Golf: 0.00%
+    polo: 0.00%
+
+Image: DATA/test\megane\back806.jpg
+    megane: 100.00%
+    symbol: 0.00%
+    bmw serie 1: 0.00%
+    toyota corolla: 0.00%
+    hyundai tucson: 0.00%
+
+Image: DATA/test\megane\back821.jpg
+    megane: 100.00%
+    Golf: 0.00%
+    volkswagen tiguan: 0.00%
+    mercedes class a: 0.00%
+    polo: 0.00%
+
+Image: DATA/test\megane\back836.jpg
+    megane: 99.96%
+    symbol: 0.02%
+    octavia: 0.01%
+    clio: 0.01%
+    toyota corolla: 0.00%
+
+Image: DATA/test\megane\back855.jpg
+    megane: 100.00%
+    Golf: 0.00%
+    mercedes class a: 0.00%
+    clio: 0.00%
+    polo: 0.00%
+
+Image: DATA/test\megane\back856.jpg
+    megane: 100.00%
+    mercedes class a: 0.00%
+    clio: 0.00%
+    Golf: 0.00%
+    volkswagen tiguan: 0.00%
+
+Image: DATA/test\megane\back860.jpg
+    megane: 100.00%
+    Golf: 0.00%
+    symbol: 0.00%
+    polo: 0.00%
+    clio: 0.00%
+
+Image: DATA/test\megane\back868.jpg
+    megane: 100.00%
+    Golf: 0.00%
+    clio: 0.00%
+    mercedes class a: 0.00%
+    volkswagen tiguan: 0.00%
+
+Image: DATA/test\megane\back872.jpg
+    megane: 100.00%
+    clio: 0.00%
+    mercedes class a: 0.00%
+    symbol: 0.00%
+    bmw serie 1: 0.00%
+
+Image: DATA/test\megane\car749.jpg
+    megane: 100.00%
+    volkswagen tiguan: 0.00%
+    clio: 0.00%
+    Golf: 0.00%
+    bmw serie 1: 0.00%
+
+Image: DATA/test\megane\car752.jpg
+    megane: 98.25%
+    bmw serie 1: 1.04%
+    Golf: 0.48%
+    clio: 0.15%
+    logan: 0.02%
+
+Image: DATA/test\megane\car757.jpg
+    megane: 100.00%
+    Golf: 0.00%
+    volkswagen tiguan: 0.00%
+    clio: 0.00%
+    bmw serie 1: 0.00%
+
+Image: DATA/test\megane\car767.jpg
+    megane: 99.30%
+    symbol: 0.57%
+    logan: 0.08%
+    hyundai tucson: 0.03%
+    Golf: 0.01%
+
+Image: DATA/test\megane\car768.jpg
+    megane: 100.00%
+    volkswagen tiguan: 0.00%
+    mercedes class a: 0.00%
+    sandero: 0.00%
+    bmw serie 1: 0.00%
+
+Image: DATA/test\megane\car771.jpg
+    megane: 99.98%
+    clio: 0.02%
+    mercedes class a: 0.00%
+    Golf: 0.00%
+    polo: 0.00%
+
+Image: DATA/test\megane\car779.jpg
+    megane: 100.00%
+    clio: 0.00%
+    Golf: 0.00%
+    polo: 0.00%
+    mercedes class a: 0.00%
+
+Image: DATA/test\megane\car783.jpg
+    megane: 100.00%
+    clio: 0.00%
+    Golf: 0.00%
+    polo: 0.00%
+    mercedes class a: 0.00%
+
+Image: DATA/test\megane\car790.jpg
+    megane: 100.00%
+    clio: 0.00%
+    mercedes class a: 0.00%
+    polo: 0.00%
+    Golf: 0.00%
+
+Image: DATA/test\megane\car791.jpg
+    megane: 99.53%
+    Golf: 0.35%
+    mercedes class a: 0.06%
+    bmw serie 1: 0.04%
+    clio: 0.02%
+
+Image: DATA/test\megane\car799.jpg
+    megane: 100.00%
+    mercedes class a: 0.00%
+    Golf: 0.00%
+    clio: 0.00%
+    volkswagen tiguan: 0.00%
+
+Image: DATA/test\megane\car802.jpg
+    megane: 100.00%
+    clio: 0.00%
+    toyota corolla: 0.00%
+    Golf: 0.00%
+    sandero: 0.00%
+
+Image: DATA/test\megane\car803.jpg
+    megane: 100.00%
+    Golf: 0.00%
+    clio: 0.00%
+    mercedes class a: 0.00%
+    volkswagen tiguan: 0.00%
+
+Image: DATA/test\megane\car805.jpg
+    megane: 100.00%
+    symbol: 0.00%
+    bmw serie 1: 0.00%
+    Golf: 0.00%
+    toyota corolla: 0.00%
+
+Image: DATA/test\megane\car809.jpg
+    megane: 100.00%
+    polo: 0.00%
+    mercedes class a: 0.00%
+    Golf: 0.00%
+    clio: 0.00%
+
+Image: DATA/test\megane\car811.jpg
+    megane: 100.00%
+    Golf: 0.00%
+    clio: 0.00%
+    mercedes class a: 0.00%
+    polo: 0.00%
+
+Image: DATA/test\megane\car814.jpg
+    megane: 100.00%
+    Golf: 0.00%
+    clio: 0.00%
+    bmw serie 1: 0.00%
+    mercedes class a: 0.00%
+
+Image: DATA/test\megane\car817.jpg
+    megane: 100.00%
+    clio: 0.00%
+    symbol: 0.00%
+    Golf: 0.00%
+    polo: 0.00%
+
+Image: DATA/test\megane\car818.jpg
+    megane: 100.00%
+    clio: 0.00%
+    mercedes class a: 0.00%
+    Golf: 0.00%
+    polo: 0.00%
+
+Image: DATA/test\megane\car821.jpg
+    megane: 100.00%
+    volkswagen tiguan: 0.00%
+    Golf: 0.00%
+    mercedes class a: 0.00%
+    polo: 0.00%
+
+Image: DATA/test\megane\car828.jpg
+    megane: 100.00%
+    Golf: 0.00%
+    clio: 0.00%
+    mercedes class a: 0.00%
+    bmw serie 1: 0.00%
+
+Image: DATA/test\megane\car830.jpg
+    megane: 99.97%
+    clio: 0.02%
+    Golf: 0.00%
+    mercedes class a: 0.00%
+    chevroulet aveo: 0.00%
+
+Image: DATA/test\megane\car839.jpg
+    megane: 100.00%
+    Golf: 0.00%
+    bmw serie 1: 0.00%
+    clio: 0.00%
+    logan: 0.00%
+
+Image: DATA/test\megane\car848.jpg
+    megane: 99.97%
+    clio: 0.03%
+    bmw serie 1: 0.00%
+    mercedes class a: 0.00%
+    Golf: 0.00%
+
+Image: DATA/test\megane\car852.jpg
+    megane: 100.00%
+    Golf: 0.00%
+    clio: 0.00%
+    symbol: 0.00%
+    volkswagen tiguan: 0.00%
+
+Image: DATA/test\megane\car859.jpg
+    megane: 100.00%
+    symbol: 0.00%
+    clio: 0.00%
+    volkswagen tiguan: 0.00%
+    Golf: 0.00%
+
+Image: DATA/test\megane\car863.jpg
+    megane: 100.00%
+    clio: 0.00%
+    symbol: 0.00%
+    volkswagen tiguan: 0.00%
+    bmw serie 1: 0.00%
+
+Image: DATA/test\megane\car876.jpg
+    megane: 100.00%
+    Golf: 0.00%
+    volkswagen tiguan: 0.00%
+    logan: 0.00%
+    mercedes class a: 0.00%
+
+Image: DATA/test\mercedes class a\back879.jpg
+    mercedes class a: 99.94%
+    seat ibiza: 0.02%
+    clio: 0.01%
+    hyundai tucson: 0.01%
+    polo: 0.01%
+
+Image: DATA/test\mercedes class a\back882.jpg
+    mercedes class a: 91.43%
+    megane: 2.59%
+    polo: 1.17%
+    Golf: 1.15%
+    symbol: 0.81%
+
+Image: DATA/test\mercedes class a\back883.jpg
+    mercedes class a: 69.07%
+    symbol: 7.84%
+    toyota corolla: 6.70%
+    clio: 4.60%
+    logan: 1.84%
+
+Image: DATA/test\mercedes class a\back891.jpg
+    mercedes class a: 83.97%
+    hyundai tucson: 8.08%
+    toyota corolla: 4.82%
+    clio: 2.03%
+    seat ibiza: 0.58%
+
+Image: DATA/test\mercedes class a\back892.jpg
+    mercedes class a: 99.98%
+    seat ibiza: 0.01%
+    clio: 0.00%
+    hyundai tucson: 0.00%
+    chevrolet spark: 0.00%
+
+Image: DATA/test\mercedes class a\back900.jpg
+    mercedes class a: 99.93%
+    clio: 0.04%
+    toyota corolla: 0.01%
+    polo: 0.01%
+    chevrolet spark: 0.00%
+
+Image: DATA/test\mercedes class a\back913.jpg
+    mercedes class a: 100.00%
+    hyundai tucson: 0.00%
+    clio: 0.00%
+    seat ibiza: 0.00%
+    octavia: 0.00%
+
+Image: DATA/test\mercedes class a\back916.jpg
+    mercedes class a: 100.00%
+    clio: 0.00%
+    hyundai tucson: 0.00%
+    toyota corolla: 0.00%
+    polo: 0.00%
+
+Image: DATA/test\mercedes class a\car878.jpg
+    mercedes class a: 99.98%
+    seat ibiza: 0.01%
+    bmw serie 1: 0.01%
+    nemo citroen: 0.00%
+    polo: 0.00%
+
+Image: DATA/test\mercedes class a\car880.jpg
+    megane: 99.84%
+    chevroulet aveo: 0.07%
+    Golf: 0.04%
+    clio: 0.02%
+    octavia: 0.00%
+
+Image: DATA/test\mercedes class a\car886.jpg
+    clio: 98.02%
+    mercedes class a: 1.97%
+    bmw serie 1: 0.00%
+    megane: 0.00%
+    toyota corolla: 0.00%
+
+Image: DATA/test\mercedes class a\car897.jpg
+    mercedes class a: 48.54%
+    polo: 27.25%
+    Golf: 22.68%
+    bmw serie 1: 0.65%
+    seat ibiza: 0.23%
+
+Image: DATA/test\mercedes class a\car898.jpg
+    mercedes class a: 100.00%
+    hyundai tucson: 0.00%
+    clio: 0.00%
+    chevrolet spark: 0.00%
+    polo: 0.00%
+
+Image: DATA/test\mercedes class a\car901.jpg
+    mercedes class a: 99.18%
+    megane: 0.17%
+    clio: 0.16%
+    bmw serie 1: 0.15%
+    picanto: 0.10%
+
+Image: DATA/test\mercedes class a\car911.jpg
+    mercedes class a: 100.00%
+    hyundai tucson: 0.00%
+    volkswagen tiguan: 0.00%
+    picanto: 0.00%
+    seat ibiza: 0.00%
+
+Image: DATA/test\nemo citroen\back920.jpg
+    nemo citroen: 100.00%
+    hyundai tucson: 0.00%
+    seat ibiza: 0.00%
+    duster: 0.00%
+    mercedes class a: 0.00%
+
+Image: DATA/test\nemo citroen\back923.jpg
+    nemo citroen: 100.00%
+    hyundai i10: 0.00%
+    octavia: 0.00%
+    megane: 0.00%
+    picanto: 0.00%
+
+Image: DATA/test\nemo citroen\back928.jpg
+    nemo citroen: 99.53%
+    symbol: 0.28%
+    picanto: 0.07%
+    sandero: 0.05%
+    chevroulet aveo: 0.02%
+
+Image: DATA/test\nemo citroen\back929.jpg
+    nemo citroen: 98.56%
+    logan: 0.44%
+    bmw serie 1: 0.23%
+    sandero: 0.14%
+    seat ibiza: 0.13%
+
+Image: DATA/test\nemo citroen\back936.jpg
+    nemo citroen: 100.00%
+    chevrolet spark: 0.00%
+    clio: 0.00%
+    hyundai i10: 0.00%
+    bmw serie 1: 0.00%
+
+Image: DATA/test\nemo citroen\back940.jpg
+    nemo citroen: 100.00%
+    chevrolet spark: 0.00%
+    octavia: 0.00%
+    volkswagen tiguan: 0.00%
+    polo: 0.00%
+
+Image: DATA/test\nemo citroen\back948.jpg
+    nemo citroen: 100.00%
+    chevrolet spark: 0.00%
+    clio: 0.00%
+    volkswagen tiguan: 0.00%
+    hyundai tucson: 0.00%
+
+Image: DATA/test\nemo citroen\back950.jpg
+    volkswagen tiguan: 78.53%
+    hyundai tucson: 15.57%
+    sandero: 3.82%
+    symbol: 1.08%
+    logan: 0.17%
+
+Image: DATA/test\nemo citroen\car931.jpg
+    nemo citroen: 99.87%
+    hyundai tucson: 0.05%
+    sandero: 0.03%
+    logan: 0.02%
+    picanto: 0.01%
+
+Image: DATA/test\nemo citroen\car935.jpg
+    nemo citroen: 100.00%
+    picanto: 0.00%
+    hyundai tucson: 0.00%
+    duster: 0.00%
+    sandero: 0.00%
+
+Image: DATA/test\nemo citroen\car946.jpg
+    nemo citroen: 100.00%
+    sandero: 0.00%
+    duster: 0.00%
+    clio: 0.00%
+    hyundai tucson: 0.00%
+
+Image: DATA/test\nemo citroen\car947.jpg
+    nemo citroen: 50.23%
+    symbol: 35.31%
+    picanto: 5.07%
+    octavia: 4.10%
+    chevrolet spark: 2.39%
+
+Image: DATA/test\nemo citroen\car951.jpg
+    nemo citroen: 99.99%
+    duster: 0.01%
+    picanto: 0.00%
+    mercedes class a: 0.00%
+    hyundai tucson: 0.00%
+
+Image: DATA/test\nemo citroen\car956.jpg
+    nemo citroen: 100.00%
+    picanto: 0.00%
+    bmw serie 1: 0.00%
+    duster: 0.00%
+    chevroulet aveo: 0.00%
+
+Image: DATA/test\octavia\back1001.jpg
+    octavia: 99.99%
+    seat ibiza: 0.00%
+    mercedes class a: 0.00%
+    megane: 0.00%
+    clio: 0.00%
+
+Image: DATA/test\octavia\back1004.jpg
+    octavia: 99.40%
+    polo: 0.38%
+    megane: 0.20%
+    symbol: 0.02%
+    bmw serie 1: 0.00%
+
+Image: DATA/test\octavia\back1012.jpg
+    octavia: 99.91%
+    polo: 0.09%
+    symbol: 0.00%
+    seat ibiza: 0.00%
+    chevroulet aveo: 0.00%
+
+Image: DATA/test\octavia\back1015.jpg
+    symbol: 95.57%
+    octavia: 3.45%
+    megane: 0.87%
+    chevroulet aveo: 0.08%
+    toyota corolla: 0.03%
+
+Image: DATA/test\octavia\back1019.jpg
+    octavia: 99.99%
+    Golf: 0.01%
+    duster: 0.00%
+    volkswagen tiguan: 0.00%
+    megane: 0.00%
+
+Image: DATA/test\octavia\back1021.jpg
+    chevroulet aveo: 65.68%
+    octavia: 33.45%
+    sandero: 0.46%
+    clio: 0.19%
+    Golf: 0.07%
+
+Image: DATA/test\octavia\back1023.jpg
+    octavia: 99.17%
+    symbol: 0.37%
+    volkswagen tiguan: 0.23%
+    polo: 0.21%
+    megane: 0.01%
+
+Image: DATA/test\octavia\back1026.jpg
+    octavia: 100.00%
+    symbol: 0.00%
+    polo: 0.00%
+    Golf: 0.00%
+    megane: 0.00%
+
+Image: DATA/test\octavia\back1032.jpg
+    octavia: 100.00%
+    chevroulet aveo: 0.00%
+    megane: 0.00%
+    Golf: 0.00%
+    symbol: 0.00%
+
+Image: DATA/test\octavia\back965.jpg
+    octavia: 99.98%
+    polo: 0.02%
+    symbol: 0.00%
+    chevroulet aveo: 0.00%
+    volkswagen tiguan: 0.00%
+
+Image: DATA/test\octavia\back969.jpg
+    octavia: 100.00%
+    Golf: 0.00%
+    megane: 0.00%
+    chevroulet aveo: 0.00%
+    clio: 0.00%
+
+Image: DATA/test\octavia\back973.jpg
+    octavia: 100.00%
+    symbol: 0.00%
+    chevroulet aveo: 0.00%
+    hyundai tucson: 0.00%
+    picanto: 0.00%
+
+Image: DATA/test\octavia\back975.jpg
+    volkswagen tiguan: 39.92%
+    Golf: 34.37%
+    duster: 20.19%
+    seat ibiza: 3.34%
+    octavia: 0.89%
+
+Image: DATA/test\octavia\back986.jpg
+    Golf: 41.06%
+    octavia: 35.15%
+    polo: 5.44%
+    toyota corolla: 4.67%
+    seat ibiza: 3.29%
+
+Image: DATA/test\octavia\back990.jpg
+    octavia: 100.00%
+    megane: 0.00%
+    Golf: 0.00%
+    polo: 0.00%
+    volkswagen tiguan: 0.00%
+
+Image: DATA/test\octavia\back999.jpg
+    octavia: 99.99%
+    bmw serie 1: 0.00%
+    megane: 0.00%
+    Golf: 0.00%
+    polo: 0.00%
+
+Image: DATA/test\octavia\car1018.jpg
+    octavia: 100.00%
+    Golf: 0.00%
+    polo: 0.00%
+    seat ibiza: 0.00%
+    volkswagen tiguan: 0.00%
+
+Image: DATA/test\octavia\car1022.jpg
+    octavia: 100.00%
+    hyundai tucson: 0.00%
+    polo: 0.00%
+    symbol: 0.00%
+    volkswagen tiguan: 0.00%
+
+Image: DATA/test\octavia\car1024.jpg
+    octavia: 99.99%
+    chevroulet aveo: 0.01%
+    symbol: 0.01%
+    polo: 0.00%
+    picanto: 0.00%
+
+Image: DATA/test\octavia\car1026.jpg
+    octavia: 99.98%
+    megane: 0.02%
+    bmw serie 1: 0.00%
+    polo: 0.00%
+    symbol: 0.00%
+
+Image: DATA/test\octavia\car1027.jpg
+    octavia: 42.09%
+    Golf: 25.13%
+    toyota corolla: 8.94%
+    polo: 5.28%
+    seat ibiza: 4.61%
+
+Image: DATA/test\octavia\car1028.jpg
+    polo: 27.57%
+    octavia: 17.86%
+    Golf: 14.40%
+    seat ibiza: 14.36%
+    symbol: 13.79%
+
+Image: DATA/test\octavia\car968.jpg
+    octavia: 100.00%
+    polo: 0.00%
+    chevroulet aveo: 0.00%
+    symbol: 0.00%
+    Golf: 0.00%
+
+Image: DATA/test\octavia\car971.jpg
+    octavia: 100.00%
+    symbol: 0.00%
+    megane: 0.00%
+    volkswagen tiguan: 0.00%
+    polo: 0.00%
+
+Image: DATA/test\octavia\car984.jpg
+    octavia: 72.77%
+    chevroulet aveo: 26.36%
+    Golf: 0.31%
+    sandero: 0.20%
+    seat ibiza: 0.08%
+
+Image: DATA/test\octavia\car985.jpg
+    octavia: 100.00%
+    symbol: 0.00%
+    Golf: 0.00%
+    polo: 0.00%
+    hyundai tucson: 0.00%
+
+Image: DATA/test\octavia\car988.jpg
+    megane: 43.39%
+    octavia: 21.86%
+    symbol: 16.90%
+    duster: 9.76%
+    volkswagen tiguan: 5.53%
+
+Image: DATA/test\octavia\car997.jpg
+    octavia: 100.00%
+    symbol: 0.00%
+    polo: 0.00%
+    volkswagen tiguan: 0.00%
+    hyundai tucson: 0.00%
+
+Image: DATA/test\picanto\back1050.jpg
+    picanto: 99.97%
+    toyota corolla: 0.02%
+    volkswagen tiguan: 0.00%
+    hyundai tucson: 0.00%
+    chevroulet aveo: 0.00%
+
+Image: DATA/test\picanto\back1051.jpg
+    picanto: 99.95%
+    hyundai tucson: 0.03%
+    octavia: 0.02%
+    sandero: 0.00%
+    logan: 0.00%
+
+Image: DATA/test\picanto\back1057.jpg
+    picanto: 99.97%
+    toyota corolla: 0.02%
+    volkswagen tiguan: 0.00%
+    hyundai tucson: 0.00%
+    chevroulet aveo: 0.00%
+
+Image: DATA/test\picanto\back1059.jpg
+    picanto: 99.97%
+    toyota corolla: 0.02%
+    volkswagen tiguan: 0.00%
+    hyundai tucson: 0.00%
+    chevroulet aveo: 0.00%
+
+Image: DATA/test\picanto\back1061.jpg
+    picanto: 99.97%
+    toyota corolla: 0.02%
+    volkswagen tiguan: 0.00%
+    hyundai tucson: 0.00%
+    chevroulet aveo: 0.00%
+
+Image: DATA/test\picanto\back1072.jpg
+    symbol: 81.98%
+    picanto: 16.69%
+    polo: 0.70%
+    seat ibiza: 0.27%
+    octavia: 0.18%
+
+Image: DATA/test\picanto\back1081.jpg
+    picanto: 99.92%
+    symbol: 0.07%
+    sandero: 0.01%
+    chevroulet aveo: 0.00%
+    polo: 0.00%
+
+Image: DATA/test\picanto\back1091.jpg
+    volkswagen tiguan: 66.96%
+    symbol: 27.06%
+    picanto: 1.07%
+    toyota corolla: 0.75%
+    polo: 0.64%
+
+Image: DATA/test\picanto\back1094.jpg
+    picanto: 46.52%
+    volkswagen tiguan: 34.74%
+    hyundai tucson: 7.87%
+    chevrolet spark: 6.49%
+    octavia: 1.89%
+
+Image: DATA/test\picanto\back1096.jpg
+    hyundai tucson: 56.20%
+    volkswagen tiguan: 18.59%
+    chevrolet spark: 16.81%
+    picanto: 6.07%
+    hyundai i10: 1.16%
+
+Image: DATA/test\picanto\back1103.jpg
+    toyota corolla: 54.77%
+    picanto: 30.50%
+    symbol: 8.12%
+    hyundai i10: 3.45%
+    chevrolet spark: 2.59%
+
+Image: DATA/test\picanto\back1105.jpg
+    chevrolet spark: 93.62%
+    picanto: 3.64%
+    toyota corolla: 1.41%
+    hyundai i10: 0.95%
+    symbol: 0.18%
+
+Image: DATA/test\picanto\back1106.jpg
+    picanto: 98.06%
+    toyota corolla: 1.22%
+    symbol: 0.36%
+    seat ibiza: 0.14%
+    chevroulet aveo: 0.09%
+
+Image: DATA/test\picanto\back1119.jpg
+    picanto: 95.86%
+    logan: 3.61%
+    hyundai i10: 0.34%
+    octavia: 0.08%
+    nemo citroen: 0.03%
+
+Image: DATA/test\picanto\back1120.jpg
+    clio: 78.09%
+    megane: 11.74%
+    bmw serie 1: 6.05%
+    mercedes class a: 1.33%
+    chevroulet aveo: 1.07%
+
+Image: DATA/test\picanto\back1123.jpg
+    picanto: 100.00%
+    seat ibiza: 0.00%
+    hyundai i10: 0.00%
+    symbol: 0.00%
+    volkswagen tiguan: 0.00%
+
+Image: DATA/test\picanto\back1133.jpg
+    picanto: 100.00%
+    symbol: 0.00%
+    seat ibiza: 0.00%
+    toyota corolla: 0.00%
+    octavia: 0.00%
+
+Image: DATA/test\picanto\back1134.jpg
+    picanto: 85.91%
+    hyundai i10: 12.80%
+    chevrolet spark: 0.84%
+    volkswagen tiguan: 0.42%
+    mercedes class a: 0.02%
+
+Image: DATA/test\picanto\back1138.jpg
+    picanto: 100.00%
+    mercedes class a: 0.00%
+    chevrolet spark: 0.00%
+    hyundai i10: 0.00%
+    seat ibiza: 0.00%
+
+Image: DATA/test\picanto\back1139.jpg
+    picanto: 98.19%
+    hyundai i10: 1.40%
+    symbol: 0.14%
+    seat ibiza: 0.07%
+    nemo citroen: 0.07%
+
+Image: DATA/test\picanto\back1140.jpg
+    chevrolet spark: 48.03%
+    symbol: 46.02%
+    toyota corolla: 1.71%
+    volkswagen tiguan: 1.09%
+    picanto: 1.06%
+
+Image: DATA/test\picanto\car1042.jpg
+    picanto: 59.87%
+    nemo citroen: 18.11%
+    bmw serie 1: 5.02%
+    clio: 4.78%
+    chevroulet aveo: 4.03%
+
+Image: DATA/test\picanto\car1049.jpg
+    picanto: 99.99%
+    octavia: 0.01%
+    hyundai tucson: 0.00%
+    chevroulet aveo: 0.00%
+    toyota corolla: 0.00%
+
+Image: DATA/test\picanto\car1055.jpg
+    picanto: 95.13%
+    volkswagen tiguan: 4.22%
+    hyundai tucson: 0.64%
+    octavia: 0.01%
+    toyota corolla: 0.01%
+
+Image: DATA/test\picanto\car1067.jpg
+    picanto: 99.84%
+    polo: 0.07%
+    hyundai i10: 0.05%
+    chevroulet aveo: 0.01%
+    seat ibiza: 0.01%
+
+Image: DATA/test\picanto\car1074.jpg
+    mercedes class a: 52.34%
+    nemo citroen: 38.80%
+    picanto: 5.00%
+    hyundai tucson: 2.71%
+    chevrolet spark: 0.45%
+
+Image: DATA/test\picanto\car1089.jpg
+    volkswagen tiguan: 84.54%
+    symbol: 8.63%
+    polo: 1.19%
+    hyundai tucson: 1.07%
+    hyundai i10: 0.75%
+
+Image: DATA/test\picanto\car1090.jpg
+    picanto: 99.99%
+    hyundai i10: 0.01%
+    mercedes class a: 0.00%
+    nemo citroen: 0.00%
+    chevrolet spark: 0.00%
+
+Image: DATA/test\picanto\car1091.jpg
+    picanto: 100.00%
+    seat ibiza: 0.00%
+    symbol: 0.00%
+    hyundai i10: 0.00%
+    polo: 0.00%
+
+Image: DATA/test\picanto\car1095.jpg
+    picanto: 99.28%
+    hyundai i10: 0.49%
+    nemo citroen: 0.14%
+    mercedes class a: 0.05%
+    chevrolet spark: 0.02%
+
+Image: DATA/test\picanto\car1101.jpg
+    toyota corolla: 84.12%
+    symbol: 15.07%
+    picanto: 0.77%
+    chevroulet aveo: 0.01%
+    sandero: 0.01%
+
+Image: DATA/test\picanto\car1103.jpg
+    chevrolet spark: 89.18%
+    picanto: 5.94%
+    toyota corolla: 2.59%
+    volkswagen tiguan: 1.48%
+    hyundai i10: 0.58%
+
+Image: DATA/test\polo\back1141.jpg
+    polo: 99.97%
+    volkswagen tiguan: 0.02%
+    mercedes class a: 0.00%
+    megane: 0.00%
+    Golf: 0.00%
+
+Image: DATA/test\polo\back1146.jpg
+    megane: 77.63%
+    symbol: 11.30%
+    chevrolet spark: 6.37%
+    hyundai tucson: 1.70%
+    octavia: 0.97%
+
+Image: DATA/test\polo\back1153.jpg
+    chevroulet aveo: 35.93%
+    clio: 23.56%
+    megane: 7.81%
+    toyota corolla: 7.72%
+    octavia: 4.90%
+
+Image: DATA/test\polo\back1156.jpg
+    polo: 99.52%
+    mercedes class a: 0.11%
+    symbol: 0.10%
+    sandero: 0.10%
+    chevroulet aveo: 0.06%
+
+Image: DATA/test\polo\back1157.jpg
+    polo: 87.56%
+    Golf: 4.06%
+    chevroulet aveo: 2.64%
+    clio: 2.55%
+    hyundai tucson: 0.78%
+
+Image: DATA/test\polo\back1168.jpg
+    polo: 99.94%
+    sandero: 0.06%
+    mercedes class a: 0.00%
+    logan: 0.00%
+    Golf: 0.00%
+
+Image: DATA/test\polo\back1169.jpg
+    polo: 93.59%
+    mercedes class a: 5.60%
+    volkswagen tiguan: 0.26%
+    Golf: 0.18%
+    megane: 0.11%
+
+Image: DATA/test\polo\back1173.jpg
+    polo: 47.24%
+    megane: 27.72%
+    volkswagen tiguan: 20.80%
+    logan: 1.23%
+    symbol: 1.10%
+
+Image: DATA/test\polo\back1177.jpg
+    polo: 99.91%
+    Golf: 0.06%
+    volkswagen tiguan: 0.02%
+    mercedes class a: 0.01%
+    seat ibiza: 0.00%
+
+Image: DATA/test\polo\back1181.jpg
+    polo: 75.25%
+    Golf: 20.35%
+    mercedes class a: 3.27%
+    seat ibiza: 0.99%
+    volkswagen tiguan: 0.04%
+
+Image: DATA/test\polo\back1182.jpg
+    polo: 75.25%
+    Golf: 20.35%
+    mercedes class a: 3.27%
+    seat ibiza: 0.99%
+    volkswagen tiguan: 0.04%
+
+Image: DATA/test\polo\back1190.jpg
+    mercedes class a: 24.41%
+    polo: 24.28%
+    symbol: 13.53%
+    octavia: 8.24%
+    seat ibiza: 7.41%
+
+Image: DATA/test\polo\back1196.jpg
+    hyundai tucson: 98.66%
+    toyota corolla: 1.05%
+    volkswagen tiguan: 0.20%
+    sandero: 0.08%
+    chevroulet aveo: 0.01%
+
+Image: DATA/test\polo\back1204.jpg
+    polo: 99.94%
+    volkswagen tiguan: 0.06%
+    mercedes class a: 0.00%
+    Golf: 0.00%
+    octavia: 0.00%
+
+Image: DATA/test\polo\car1130.jpg
+    megane: 91.02%
+    polo: 6.46%
+    sandero: 1.54%
+    volkswagen tiguan: 0.76%
+    Golf: 0.09%
+
+Image: DATA/test\polo\car1132.jpg
+    polo: 99.99%
+    volkswagen tiguan: 0.01%
+    mercedes class a: 0.00%
+    sandero: 0.00%
+    megane: 0.00%
+
+Image: DATA/test\polo\car1133.jpg
+    polo: 99.99%
+    volkswagen tiguan: 0.01%
+    mercedes class a: 0.00%
+    sandero: 0.00%
+    megane: 0.00%
+
+Image: DATA/test\polo\car1141.jpg
+    polo: 99.78%
+    volkswagen tiguan: 0.07%
+    chevroulet aveo: 0.07%
+    symbol: 0.03%
+    megane: 0.02%
+
+Image: DATA/test\polo\car1146.jpg
+    polo: 56.87%
+    megane: 31.51%
+    Golf: 6.29%
+    volkswagen tiguan: 4.54%
+    mercedes class a: 0.76%
+
+Image: DATA/test\polo\car1149.jpg
+    Golf: 78.47%
+    volkswagen tiguan: 13.70%
+    megane: 7.13%
+    bmw serie 1: 0.68%
+    polo: 0.01%
+
+Image: DATA/test\polo\car1153.jpg
+    polo: 60.77%
+    volkswagen tiguan: 38.55%
+    Golf: 0.42%
+    bmw serie 1: 0.12%
+    mercedes class a: 0.12%
+
+Image: DATA/test\polo\car1160.jpg
+    seat ibiza: 47.10%
+    picanto: 11.96%
+    polo: 10.95%
+    nemo citroen: 7.32%
+    mercedes class a: 6.66%
+
+Image: DATA/test\polo\car1164.jpg
+    polo: 100.00%
+    volkswagen tiguan: 0.00%
+    symbol: 0.00%
+    Golf: 0.00%
+    chevrolet spark: 0.00%
+
+Image: DATA/test\sandero\back1216.jpg
+    sandero: 99.75%
+    logan: 0.25%
+    bmw serie 1: 0.00%
+    volkswagen tiguan: 0.00%
+    mercedes class a: 0.00%
+
+Image: DATA/test\sandero\back1221.jpg
+    sandero: 100.00%
+    logan: 0.00%
+    volkswagen tiguan: 0.00%
+    symbol: 0.00%
+    bmw serie 1: 0.00%
+
+Image: DATA/test\sandero\back1223.jpg
+    symbol: 33.08%
+    octavia: 27.18%
+    hyundai tucson: 16.73%
+    toyota corolla: 10.24%
+    clio: 5.06%
+
+Image: DATA/test\sandero\back1226.jpg
+    sandero: 100.00%
+    symbol: 0.00%
+    chevroulet aveo: 0.00%
+    volkswagen tiguan: 0.00%
+    logan: 0.00%
+
+Image: DATA/test\sandero\back1228.jpg
+    sandero: 100.00%
+    logan: 0.00%
+    volkswagen tiguan: 0.00%
+    bmw serie 1: 0.00%
+    nemo citroen: 0.00%
+
+Image: DATA/test\sandero\back1229.jpg
+    sandero: 26.51%
+    clio: 17.15%
+    logan: 15.36%
+    hyundai tucson: 12.33%
+    chevroulet aveo: 6.04%
+
+Image: DATA/test\sandero\back1240.jpg
+    sandero: 100.00%
+    logan: 0.00%
+    symbol: 0.00%
+    bmw serie 1: 0.00%
+    volkswagen tiguan: 0.00%
+
+Image: DATA/test\sandero\back1243.jpg
+    sandero: 99.74%
+    logan: 0.18%
+    megane: 0.07%
+    symbol: 0.00%
+    clio: 0.00%
+
+Image: DATA/test\sandero\back1244.jpg
+    sandero: 100.00%
+    logan: 0.00%
+    bmw serie 1: 0.00%
+    chevroulet aveo: 0.00%
+    symbol: 0.00%
+
+Image: DATA/test\sandero\back1251.jpg
+    sandero: 100.00%
+    logan: 0.00%
+    chevroulet aveo: 0.00%
+    symbol: 0.00%
+    bmw serie 1: 0.00%
+
+Image: DATA/test\sandero\back1265.jpg
+    polo: 88.46%
+    symbol: 7.15%
+    volkswagen tiguan: 2.58%
+    hyundai i10: 0.68%
+    octavia: 0.40%
+
+Image: DATA/test\sandero\back1275.jpg
+    sandero: 100.00%
+    volkswagen tiguan: 0.00%
+    symbol: 0.00%
+    logan: 0.00%
+    chevroulet aveo: 0.00%
+
+Image: DATA/test\sandero\back1278.jpg
+    sandero: 100.00%
+    logan: 0.00%
+    hyundai tucson: 0.00%
+    symbol: 0.00%
+    chevroulet aveo: 0.00%
+
+Image: DATA/test\sandero\back1283.jpg
+    sandero: 99.96%
+    logan: 0.04%
+    volkswagen tiguan: 0.00%
+    bmw serie 1: 0.00%
+    nemo citroen: 0.00%
+
+Image: DATA/test\sandero\back1284.jpg
+    megane: 66.50%
+    clio: 12.34%
+    sandero: 11.18%
+    symbol: 8.45%
+    bmw serie 1: 1.16%
+
+Image: DATA/test\sandero\back1287.jpg
+    sandero: 100.00%
+    symbol: 0.00%
+    logan: 0.00%
+    chevroulet aveo: 0.00%
+    seat ibiza: 0.00%
+
+Image: DATA/test\sandero\back1289.jpg
+    sandero: 100.00%
+    volkswagen tiguan: 0.00%
+    chevroulet aveo: 0.00%
+    duster: 0.00%
+    symbol: 0.00%
+
+Image: DATA/test\sandero\back1291.jpg
+    sandero: 99.99%
+    symbol: 0.01%
+    seat ibiza: 0.00%
+    volkswagen tiguan: 0.00%
+    chevroulet aveo: 0.00%
+
+Image: DATA/test\sandero\back1301.jpg
+    sandero: 77.38%
+    symbol: 21.51%
+    logan: 0.60%
+    chevroulet aveo: 0.27%
+    polo: 0.12%
+
+Image: DATA/test\sandero\back1306.jpg
+    sandero: 58.77%
+    symbol: 32.71%
+    logan: 7.39%
+    volkswagen tiguan: 1.13%
+    megane: 0.00%
+
+Image: DATA/test\sandero\back1308.jpg
+    sandero: 99.07%
+    volkswagen tiguan: 0.91%
+    clio: 0.01%
+    nemo citroen: 0.00%
+    chevroulet aveo: 0.00%
+
+Image: DATA/test\sandero\back1311.jpg
+    sandero: 100.00%
+    chevroulet aveo: 0.00%
+    hyundai tucson: 0.00%
+    symbol: 0.00%
+    toyota corolla: 0.00%
+
+Image: DATA/test\sandero\back1316.jpg
+    sandero: 99.98%
+    volkswagen tiguan: 0.02%
+    chevroulet aveo: 0.00%
+    symbol: 0.00%
+    seat ibiza: 0.00%
+
+Image: DATA/test\sandero\back1318.jpg
+    sandero: 100.00%
+    logan: 0.00%
+    volkswagen tiguan: 0.00%
+    megane: 0.00%
+    chevroulet aveo: 0.00%
+
+Image: DATA/test\sandero\back1321.jpg
+    sandero: 100.00%
+    logan: 0.00%
+    volkswagen tiguan: 0.00%
+    duster: 0.00%
+    seat ibiza: 0.00%
+
+Image: DATA/test\sandero\back1336.jpg
+    sandero: 100.00%
+    logan: 0.00%
+    volkswagen tiguan: 0.00%
+    nemo citroen: 0.00%
+    bmw serie 1: 0.00%
+
+Image: DATA/test\sandero\car1178.jpg
+    bmw serie 1: 52.35%
+    Golf: 11.95%
+    seat ibiza: 9.16%
+    nemo citroen: 3.93%
+    chevroulet aveo: 3.43%
+
+Image: DATA/test\sandero\car1182.jpg
+    sandero: 99.99%
+    chevroulet aveo: 0.00%
+    clio: 0.00%
+    duster: 0.00%
+    volkswagen tiguan: 0.00%
+
+Image: DATA/test\sandero\car1193.jpg
+    hyundai tucson: 48.12%
+    toyota corolla: 19.15%
+    clio: 11.05%
+    sandero: 6.57%
+    octavia: 4.62%
+
+Image: DATA/test\sandero\car1195.jpg
+    sandero: 100.00%
+    duster: 0.00%
+    logan: 0.00%
+    nemo citroen: 0.00%
+    mercedes class a: 0.00%
+
+Image: DATA/test\sandero\car1199.jpg
+    megane: 91.29%
+    chevroulet aveo: 3.58%
+    clio: 1.42%
+    sandero: 1.13%
+    hyundai tucson: 0.98%
+
+Image: DATA/test\sandero\car1203.jpg
+    sandero: 100.00%
+    logan: 0.00%
+    symbol: 0.00%
+    volkswagen tiguan: 0.00%
+    megane: 0.00%
+
+Image: DATA/test\sandero\car1207.jpg
+    sandero: 100.00%
+    logan: 0.00%
+    chevroulet aveo: 0.00%
+    volkswagen tiguan: 0.00%
+    nemo citroen: 0.00%
+
+Image: DATA/test\sandero\car1225.jpg
+    sandero: 100.00%
+    duster: 0.00%
+    polo: 0.00%
+    chevroulet aveo: 0.00%
+    logan: 0.00%
+
+Image: DATA/test\sandero\car1226.jpg
+    sandero: 99.87%
+    logan: 0.13%
+    bmw serie 1: 0.00%
+    symbol: 0.00%
+    chevroulet aveo: 0.00%
+
+Image: DATA/test\sandero\car1236.jpg
+    sandero: 71.54%
+    logan: 28.44%
+    megane: 0.01%
+    chevroulet aveo: 0.00%
+    Golf: 0.00%
+
+Image: DATA/test\sandero\car1237.jpg
+    sandero: 100.00%
+    logan: 0.00%
+    symbol: 0.00%
+    chevroulet aveo: 0.00%
+    bmw serie 1: 0.00%
+
+Image: DATA/test\sandero\car1248.jpg
+    sandero: 100.00%
+    logan: 0.00%
+    bmw serie 1: 0.00%
+    chevroulet aveo: 0.00%
+    hyundai tucson: 0.00%
+
+Image: DATA/test\sandero\car1252.jpg
+    sandero: 99.95%
+    logan: 0.05%
+    bmw serie 1: 0.00%
+    volkswagen tiguan: 0.00%
+    nemo citroen: 0.00%
+
+Image: DATA/test\sandero\car1256.jpg
+    sandero: 99.90%
+    Golf: 0.06%
+    hyundai tucson: 0.01%
+    duster: 0.01%
+    chevroulet aveo: 0.00%
+
+Image: DATA/test\sandero\car1271.jpg
+    sandero: 78.93%
+    symbol: 20.11%
+    chevroulet aveo: 0.39%
+    logan: 0.33%
+    polo: 0.10%
+
+Image: DATA/test\sandero\car1274.jpg
+    sandero: 99.94%
+    logan: 0.06%
+    bmw serie 1: 0.00%
+    megane: 0.00%
+    mercedes class a: 0.00%
+
+Image: DATA/test\sandero\car1280.jpg
+    sandero: 100.00%
+    chevroulet aveo: 0.00%
+    volkswagen tiguan: 0.00%
+    hyundai tucson: 0.00%
+    clio: 0.00%
+
+Image: DATA/test\sandero\car1295.jpg
+    nemo citroen: 82.48%
+    hyundai tucson: 11.76%
+    sandero: 2.61%
+    clio: 1.22%
+    logan: 0.97%
+
+Image: DATA/test\sandero\car1300.jpg
+    volkswagen tiguan: 99.03%
+    megane: 0.32%
+    sandero: 0.26%
+    polo: 0.24%
+    mercedes class a: 0.04%
+
+Image: DATA/test\sandero\car1302.jpg
+    sandero: 100.00%
+    duster: 0.00%
+    chevroulet aveo: 0.00%
+    symbol: 0.00%
+    hyundai tucson: 0.00%
+
+Image: DATA/test\seat ibiza\back1338.jpg
+    toyota corolla: 43.88%
+    megane: 19.08%
+    seat ibiza: 13.23%
+    chevroulet aveo: 6.03%
+    clio: 5.14%
+
+Image: DATA/test\seat ibiza\back1353.jpg
+    Golf: 21.69%
+    toyota corolla: 15.53%
+    mercedes class a: 15.38%
+    hyundai tucson: 11.47%
+    polo: 7.02%
+
+Image: DATA/test\seat ibiza\back1358.jpg
+    seat ibiza: 99.60%
+    symbol: 0.33%
+    mercedes class a: 0.03%
+    octavia: 0.02%
+    toyota corolla: 0.01%
+
+Image: DATA/test\seat ibiza\back1363.jpg
+    megane: 62.57%
+    seat ibiza: 23.90%
+    mercedes class a: 4.97%
+    duster: 3.50%
+    polo: 1.81%
+
+Image: DATA/test\seat ibiza\back1364.jpg
+    seat ibiza: 99.72%
+    Golf: 0.14%
+    chevroulet aveo: 0.03%
+    mercedes class a: 0.03%
+    picanto: 0.02%
+
+Image: DATA/test\seat ibiza\back1367.jpg
+    seat ibiza: 99.99%
+    volkswagen tiguan: 0.01%
+    symbol: 0.00%
+    mercedes class a: 0.00%
+    hyundai tucson: 0.00%
+
+Image: DATA/test\seat ibiza\back1369.jpg
+    seat ibiza: 55.71%
+    symbol: 22.17%
+    megane: 8.09%
+    volkswagen tiguan: 6.30%
+    sandero: 2.35%
+
+Image: DATA/test\seat ibiza\back1378.jpg
+    megane: 54.31%
+    symbol: 41.52%
+    toyota corolla: 1.71%
+    seat ibiza: 0.95%
+    clio: 0.67%
+
+Image: DATA/test\seat ibiza\back1381.jpg
+    seat ibiza: 99.45%
+    sandero: 0.17%
+    duster: 0.16%
+    nemo citroen: 0.04%
+    picanto: 0.04%
+
+Image: DATA/test\seat ibiza\car1309.jpg
+    seat ibiza: 81.68%
+    megane: 13.18%
+    clio: 3.60%
+    octavia: 0.88%
+    chevroulet aveo: 0.22%
+
+Image: DATA/test\seat ibiza\car1312.jpg
+    volkswagen tiguan: 98.61%
+    seat ibiza: 0.85%
+    symbol: 0.15%
+    bmw serie 1: 0.14%
+    sandero: 0.12%
+
+Image: DATA/test\seat ibiza\car1314.jpg
+    seat ibiza: 91.36%
+    Golf: 6.54%
+    toyota corolla: 0.87%
+    chevroulet aveo: 0.50%
+    polo: 0.21%
+
+Image: DATA/test\seat ibiza\car1317.jpg
+    seat ibiza: 99.98%
+    mercedes class a: 0.02%
+    polo: 0.00%
+    Golf: 0.00%
+    hyundai tucson: 0.00%
+
+Image: DATA/test\seat ibiza\car1319.jpg
+    seat ibiza: 100.00%
+    mercedes class a: 0.00%
+    Golf: 0.00%
+    polo: 0.00%
+    duster: 0.00%
+
+Image: DATA/test\seat ibiza\car1322.jpg
+    Golf: 37.80%
+    megane: 20.62%
+    volkswagen tiguan: 11.49%
+    sandero: 10.11%
+    polo: 3.30%
+
+Image: DATA/test\seat ibiza\car1343.jpg
+    seat ibiza: 84.41%
+    volkswagen tiguan: 15.45%
+    hyundai tucson: 0.09%
+    duster: 0.03%
+    sandero: 0.01%
+
+Image: DATA/test\seat ibiza\car1348.jpg
+    megane: 52.96%
+    seat ibiza: 25.11%
+    symbol: 15.54%
+    bmw serie 1: 2.00%
+    chevroulet aveo: 1.71%
+
+Image: DATA/test\seat ibiza\car1355.jpg
+    octavia: 82.40%
+    hyundai tucson: 9.84%
+    polo: 3.11%
+    volkswagen tiguan: 1.44%
+    toyota corolla: 0.62%
+
+Image: DATA/test\symbol\back1387.jpg
+    symbol: 57.09%
+    sandero: 24.33%
+    logan: 7.87%
+    toyota corolla: 5.91%
+    mercedes class a: 1.46%
+
+Image: DATA/test\symbol\back1393.jpg
+    symbol: 99.99%
+    octavia: 0.01%
+    megane: 0.00%
+    toyota corolla: 0.00%
+    polo: 0.00%
+
+Image: DATA/test\symbol\back1401.jpg
+    toyota corolla: 63.31%
+    clio: 22.41%
+    megane: 5.11%
+    mercedes class a: 3.99%
+    chevrolet spark: 1.44%
+
+Image: DATA/test\symbol\back1404.jpg
+    symbol: 100.00%
+    megane: 0.00%
+    toyota corolla: 0.00%
+    octavia: 0.00%
+    polo: 0.00%
+
+Image: DATA/test\symbol\back1412.jpg
+    symbol: 99.99%
+    toyota corolla: 0.00%
+    megane: 0.00%
+    octavia: 0.00%
+    hyundai tucson: 0.00%
+
+Image: DATA/test\symbol\back1413.jpg
+    toyota corolla: 42.10%
+    symbol: 23.66%
+    megane: 15.82%
+    chevrolet spark: 8.32%
+    picanto: 4.28%
+
+Image: DATA/test\symbol\back1418.jpg
+    symbol: 98.01%
+    megane: 1.86%
+    toyota corolla: 0.13%
+    clio: 0.00%
+    picanto: 0.00%
+
+Image: DATA/test\symbol\back1426.jpg
+    symbol: 99.98%
+    logan: 0.01%
+    hyundai tucson: 0.01%
+    sandero: 0.00%
+    octavia: 0.00%
+
+Image: DATA/test\symbol\back1429.jpg
+    symbol: 100.00%
+    megane: 0.00%
+    toyota corolla: 0.00%
+    octavia: 0.00%
+    polo: 0.00%
+
+Image: DATA/test\symbol\back1436.jpg
+    symbol: 100.00%
+    Golf: 0.00%
+    octavia: 0.00%
+    logan: 0.00%
+    megane: 0.00%
+
+Image: DATA/test\symbol\back1439.jpg
+    symbol: 99.99%
+    toyota corolla: 0.00%
+    chevroulet aveo: 0.00%
+    sandero: 0.00%
+    picanto: 0.00%
+
+Image: DATA/test\symbol\back1442.jpg
+    symbol: 100.00%
+    megane: 0.00%
+    toyota corolla: 0.00%
+    polo: 0.00%
+    octavia: 0.00%
+
+Image: DATA/test\symbol\back1446.jpg
+    symbol: 51.34%
+    megane: 42.66%
+    volkswagen tiguan: 4.79%
+    sandero: 0.83%
+    bmw serie 1: 0.17%
+
+Image: DATA/test\symbol\back1448.jpg
+    symbol: 99.98%
+    megane: 0.01%
+    seat ibiza: 0.01%
+    octavia: 0.00%
+    duster: 0.00%
+
+Image: DATA/test\symbol\back1450.jpg
+    sandero: 65.93%
+    hyundai tucson: 16.35%
+    toyota corolla: 8.31%
+    volkswagen tiguan: 5.63%
+    chevroulet aveo: 1.31%
+
+Image: DATA/test\symbol\back1457.jpg
+    symbol: 85.55%
+    sandero: 10.42%
+    megane: 3.63%
+    logan: 0.31%
+    octavia: 0.08%
+
+Image: DATA/test\symbol\back1458.jpg
+    symbol: 99.99%
+    megane: 0.01%
+    toyota corolla: 0.00%
+    octavia: 0.00%
+    mercedes class a: 0.00%
+
+Image: DATA/test\symbol\back1462.jpg
+    octavia: 91.43%
+    megane: 4.96%
+    symbol: 1.91%
+    toyota corolla: 0.55%
+    chevroulet aveo: 0.34%
+
+Image: DATA/test\symbol\back1473.jpg
+    symbol: 92.04%
+    volkswagen tiguan: 7.86%
+    seat ibiza: 0.05%
+    megane: 0.03%
+    hyundai tucson: 0.01%
+
+Image: DATA/test\symbol\car1361.jpg
+    symbol: 99.99%
+    toyota corolla: 0.00%
+    logan: 0.00%
+    polo: 0.00%
+    megane: 0.00%
+
+Image: DATA/test\symbol\car1364.jpg
+    symbol: 99.52%
+    octavia: 0.47%
+    megane: 0.00%
+    toyota corolla: 0.00%
+    polo: 0.00%
+
+Image: DATA/test\symbol\car1370.jpg
+    toyota corolla: 72.64%
+    symbol: 23.89%
+    logan: 0.87%
+    megane: 0.85%
+    hyundai tucson: 0.45%
+
+Image: DATA/test\symbol\car1383.jpg
+    toyota corolla: 93.53%
+    symbol: 4.56%
+    megane: 1.17%
+    picanto: 0.22%
+    logan: 0.12%
+
+Image: DATA/test\symbol\car1384.jpg
+    symbol: 100.00%
+    megane: 0.00%
+    toyota corolla: 0.00%
+    chevrolet spark: 0.00%
+    polo: 0.00%
+
+Image: DATA/test\symbol\car1389.jpg
+    symbol: 99.99%
+    megane: 0.01%
+    octavia: 0.00%
+    polo: 0.00%
+    sandero: 0.00%
+
+Image: DATA/test\symbol\car1390.jpg
+    symbol: 100.00%
+    duster: 0.00%
+    megane: 0.00%
+    picanto: 0.00%
+    nemo citroen: 0.00%
+
+Image: DATA/test\symbol\car1413.jpg
+    symbol: 98.39%
+    megane: 1.00%
+    octavia: 0.29%
+    chevroulet aveo: 0.22%
+    toyota corolla: 0.04%
+
+Image: DATA/test\symbol\car1415.jpg
+    symbol: 100.00%
+    toyota corolla: 0.00%
+    octavia: 0.00%
+    megane: 0.00%
+    polo: 0.00%
+
+Image: DATA/test\toyota corolla\back1481.jpg
+    toyota corolla: 93.04%
+    hyundai tucson: 6.88%
+    volkswagen tiguan: 0.04%
+    sandero: 0.03%
+    clio: 0.00%
+
+Image: DATA/test\toyota corolla\back1483.jpg
+    toyota corolla: 99.96%
+    mercedes class a: 0.02%
+    symbol: 0.01%
+    chevrolet spark: 0.00%
+    hyundai tucson: 0.00%
+
+Image: DATA/test\toyota corolla\back1485.jpg
+    symbol: 51.39%
+    toyota corolla: 48.56%
+    megane: 0.04%
+    octavia: 0.01%
+    hyundai tucson: 0.00%
+
+Image: DATA/test\toyota corolla\back1489.jpg
+    toyota corolla: 98.69%
+    symbol: 0.49%
+    chevroulet aveo: 0.46%
+    logan: 0.35%
+    chevrolet spark: 0.01%
+
+Image: DATA/test\toyota corolla\back1490.jpg
+    toyota corolla: 100.00%
+    symbol: 0.00%
+    mercedes class a: 0.00%
+    picanto: 0.00%
+    clio: 0.00%
+
+Image: DATA/test\toyota corolla\back1513.jpg
+    toyota corolla: 100.00%
+    symbol: 0.00%
+    clio: 0.00%
+    volkswagen tiguan: 0.00%
+    hyundai tucson: 0.00%
+
+Image: DATA/test\toyota corolla\back1515.jpg
+    toyota corolla: 97.76%
+    chevrolet spark: 1.95%
+    symbol: 0.15%
+    mercedes class a: 0.06%
+    clio: 0.03%
+
+Image: DATA/test\toyota corolla\back1522.jpg
+    symbol: 78.91%
+    toyota corolla: 10.49%
+    hyundai tucson: 3.43%
+    chevroulet aveo: 1.47%
+    polo: 1.40%
+
+Image: DATA/test\toyota corolla\back1525.jpg
+    toyota corolla: 100.00%
+    chevrolet spark: 0.00%
+    hyundai tucson: 0.00%
+    picanto: 0.00%
+    symbol: 0.00%
+
+Image: DATA/test\toyota corolla\back1528.jpg
+    toyota corolla: 100.00%
+    symbol: 0.00%
+    clio: 0.00%
+    mercedes class a: 0.00%
+    picanto: 0.00%
+
+Image: DATA/test\toyota corolla\back1531.jpg
+    toyota corolla: 98.50%
+    mercedes class a: 0.75%
+    hyundai tucson: 0.50%
+    volkswagen tiguan: 0.22%
+    megane: 0.01%
+
+Image: DATA/test\toyota corolla\back1538.jpg
+    toyota corolla: 99.98%
+    mercedes class a: 0.01%
+    hyundai tucson: 0.00%
+    picanto: 0.00%
+    symbol: 0.00%
+
+Image: DATA/test\toyota corolla\back1542.jpg
+    toyota corolla: 99.74%
+    mercedes class a: 0.21%
+    picanto: 0.02%
+    chevrolet spark: 0.01%
+    megane: 0.01%
+
+Image: DATA/test\toyota corolla\car1424.jpg
+    toyota corolla: 98.92%
+    picanto: 0.79%
+    mercedes class a: 0.15%
+    chevrolet spark: 0.07%
+    seat ibiza: 0.06%
+
+Image: DATA/test\toyota corolla\car1427.jpg
+    toyota corolla: 85.44%
+    megane: 14.29%
+    clio: 0.08%
+    hyundai i10: 0.07%
+    seat ibiza: 0.06%
+
+Image: DATA/test\toyota corolla\car1440.jpg
+    toyota corolla: 99.86%
+    megane: 0.07%
+    clio: 0.05%
+    symbol: 0.02%
+    chevrolet spark: 0.00%
+
+Image: DATA/test\toyota corolla\car1447.jpg
+    toyota corolla: 99.89%
+    seat ibiza: 0.07%
+    hyundai tucson: 0.02%
+    chevrolet spark: 0.01%
+    picanto: 0.00%
+
+Image: DATA/test\toyota corolla\car1450.jpg
+    toyota corolla: 100.00%
+    mercedes class a: 0.00%
+    chevroulet aveo: 0.00%
+    hyundai tucson: 0.00%
+    seat ibiza: 0.00%
+
+Image: DATA/test\toyota corolla\car1452.jpg
+    toyota corolla: 99.93%
+    chevrolet spark: 0.05%
+    megane: 0.01%
+    clio: 0.00%
+    mercedes class a: 0.00%
+
+Image: DATA/test\toyota corolla\car1453.jpg
+    toyota corolla: 97.28%
+    mercedes class a: 1.71%
+    hyundai tucson: 0.30%
+    volkswagen tiguan: 0.24%
+    chevrolet spark: 0.18%
+
+Image: DATA/test\toyota corolla\car1461.jpg
+    toyota corolla: 99.95%
+    symbol: 0.05%
+    hyundai tucson: 0.00%
+    chevrolet spark: 0.00%
+    logan: 0.00%
+
+Image: DATA/test\toyota corolla\car1469.jpg
+    toyota corolla: 100.00%
+    chevrolet spark: 0.00%
+    hyundai tucson: 0.00%
+    seat ibiza: 0.00%
+    picanto: 0.00%
+
+Image: DATA/test\toyota corolla\car1477.jpg
+    toyota corolla: 100.00%
+    mercedes class a: 0.00%
+    symbol: 0.00%
+    seat ibiza: 0.00%
+    clio: 0.00%
+
+Image: DATA/test\toyota corolla\car1478.jpg
+    toyota corolla: 55.43%
+    hyundai tucson: 20.82%
+    volkswagen tiguan: 10.88%
+    sandero: 6.02%
+    clio: 3.13%
+
+Image: DATA/test\toyota corolla\car1481.jpg
+    toyota corolla: 99.91%
+    symbol: 0.08%
+    clio: 0.00%
+    seat ibiza: 0.00%
+    chevroulet aveo: 0.00%
+
+Image: DATA/test\toyota corolla\car1492.jpg
+    toyota corolla: 51.96%
+    symbol: 46.62%
+    volkswagen tiguan: 1.22%
+    sandero: 0.07%
+    megane: 0.04%
+
+Image: DATA/test\toyota corolla\car1496.jpg
+    symbol: 95.78%
+    toyota corolla: 1.48%
+    picanto: 1.33%
+    sandero: 0.81%
+    seat ibiza: 0.30%
+
+Image: DATA/test\volkswagen tiguan\back1560.jpg
+    hyundai tucson: 95.61%
+    clio: 3.36%
+    volkswagen tiguan: 0.87%
+    megane: 0.06%
+    sandero: 0.04%
+
+Image: DATA/test\volkswagen tiguan\back1565.jpg
+    volkswagen tiguan: 100.00%
+    polo: 0.00%
+    hyundai tucson: 0.00%
+    mercedes class a: 0.00%
+    Golf: 0.00%
+
+Image: DATA/test\volkswagen tiguan\back1575.jpg
+    volkswagen tiguan: 100.00%
+    hyundai tucson: 0.00%
+    duster: 0.00%
+    mercedes class a: 0.00%
+    Golf: 0.00%
+
+Image: DATA/test\volkswagen tiguan\back1576.jpg
+    volkswagen tiguan: 100.00%
+    hyundai tucson: 0.00%
+    duster: 0.00%
+    mercedes class a: 0.00%
+    Golf: 0.00%
+
+Image: DATA/test\volkswagen tiguan\back1581.jpg
+    volkswagen tiguan: 100.00%
+    clio: 0.00%
+    toyota corolla: 0.00%
+    sandero: 0.00%
+    symbol: 0.00%
+
+Image: DATA/test\volkswagen tiguan\back1583.jpg
+    volkswagen tiguan: 100.00%
+    hyundai tucson: 0.00%
+    duster: 0.00%
+    Golf: 0.00%
+    polo: 0.00%
+
+Image: DATA/test\volkswagen tiguan\back1585.jpg
+    volkswagen tiguan: 55.16%
+    hyundai tucson: 30.67%
+    seat ibiza: 10.77%
+    chevroulet aveo: 1.50%
+    toyota corolla: 0.60%
+
+Image: DATA/test\volkswagen tiguan\back1593.jpg
+    volkswagen tiguan: 100.00%
+    hyundai tucson: 0.00%
+    Golf: 0.00%
+    hyundai i10: 0.00%
+    duster: 0.00%
+
+Image: DATA/test\volkswagen tiguan\back1602.jpg
+    volkswagen tiguan: 100.00%
+    hyundai tucson: 0.00%
+    toyota corolla: 0.00%
+    clio: 0.00%
+    chevrolet spark: 0.00%
+
+Image: DATA/test\volkswagen tiguan\back1609.jpg
+    volkswagen tiguan: 100.00%
+    duster: 0.00%
+    logan: 0.00%
+    polo: 0.00%
+    Golf: 0.00%
+
+Image: DATA/test\volkswagen tiguan\back1611.jpg
+    volkswagen tiguan: 100.00%
+    duster: 0.00%
+    hyundai i10: 0.00%
+    chevrolet spark: 0.00%
+    picanto: 0.00%
+
+Image: DATA/test\volkswagen tiguan\back1615.jpg
+    volkswagen tiguan: 100.00%
+    hyundai tucson: 0.00%
+    hyundai i10: 0.00%
+    chevrolet spark: 0.00%
+    polo: 0.00%
+
+Image: DATA/test\volkswagen tiguan\back1620.jpg
+    volkswagen tiguan: 100.00%
+    hyundai tucson: 0.00%
+    hyundai i10: 0.00%
+    duster: 0.00%
+    chevrolet spark: 0.00%
+
+Image: DATA/test\volkswagen tiguan\back1625.jpg
+    volkswagen tiguan: 100.00%
+    duster: 0.00%
+    hyundai i10: 0.00%
+    Golf: 0.00%
+    polo: 0.00%
+
+Image: DATA/test\volkswagen tiguan\back1627.jpg
+    volkswagen tiguan: 99.98%
+    Golf: 0.01%
+    mercedes class a: 0.00%
+    hyundai i10: 0.00%
+    clio: 0.00%
+
+Image: DATA/test\volkswagen tiguan\back1628.jpg
+    volkswagen tiguan: 100.00%
+    hyundai tucson: 0.00%
+    hyundai i10: 0.00%
+    mercedes class a: 0.00%
+    chevrolet spark: 0.00%
+
+Image: DATA/test\volkswagen tiguan\back1631.jpg
+    volkswagen tiguan: 99.99%
+    hyundai tucson: 0.01%
+    toyota corolla: 0.00%
+    polo: 0.00%
+    octavia: 0.00%
+
+Image: DATA/test\volkswagen tiguan\car1498.jpg
+    volkswagen tiguan: 100.00%
+    polo: 0.00%
+    duster: 0.00%
+    mercedes class a: 0.00%
+    Golf: 0.00%
+
+Image: DATA/test\volkswagen tiguan\car1505.jpg
+    volkswagen tiguan: 99.99%
+    hyundai tucson: 0.01%
+    chevrolet spark: 0.00%
+    sandero: 0.00%
+    mercedes class a: 0.00%
+
+Image: DATA/test\volkswagen tiguan\car1509.jpg
+    volkswagen tiguan: 100.00%
+    polo: 0.00%
+    hyundai tucson: 0.00%
+    Golf: 0.00%
+    mercedes class a: 0.00%
+
+Image: DATA/test\volkswagen tiguan\car1521.jpg
+    volkswagen tiguan: 100.00%
+    polo: 0.00%
+    mercedes class a: 0.00%
+    Golf: 0.00%
+    hyundai tucson: 0.00%
+
+Image: DATA/test\volkswagen tiguan\car1526.jpg
+    volkswagen tiguan: 100.00%
+    duster: 0.00%
+    hyundai tucson: 0.00%
+    Golf: 0.00%
+    logan: 0.00%
+
+Image: DATA/test\volkswagen tiguan\car1528.jpg
+    volkswagen tiguan: 97.88%
+    duster: 1.93%
+    logan: 0.14%
+    Golf: 0.03%
+    chevroulet aveo: 0.01%
+
+Image: DATA/test\volkswagen tiguan\car1529.jpg
+    volkswagen tiguan: 42.18%
+    hyundai tucson: 22.94%
+    duster: 22.06%
+    mercedes class a: 5.59%
+    megane: 1.86%
+
+Image: DATA/test\volkswagen tiguan\car1530.jpg
+    megane: 32.68%
+    volkswagen tiguan: 31.26%
+    sandero: 30.90%
+    Golf: 2.54%
+    logan: 2.07%
+
+Image: DATA/test\volkswagen tiguan\car1536.jpg
+    volkswagen tiguan: 100.00%
+    hyundai tucson: 0.00%
+    mercedes class a: 0.00%
+    hyundai i10: 0.00%
+    polo: 0.00%
+
+Image: DATA/test\volkswagen tiguan\car1537.jpg
+    volkswagen tiguan: 100.00%
+    Golf: 0.00%
+    megane: 0.00%
+    hyundai tucson: 0.00%
+    bmw serie 1: 0.00%
+
+Image: DATA/test\volkswagen tiguan\car1539.jpg
+    volkswagen tiguan: 100.00%
+    hyundai tucson: 0.00%
+    polo: 0.00%
+    duster: 0.00%
+    chevrolet spark: 0.00%
+
+Image: DATA/test\volkswagen tiguan\car1564.jpg
+    volkswagen tiguan: 100.00%
+    hyundai i10: 0.00%
+    hyundai tucson: 0.00%
+    duster: 0.00%
+    chevrolet spark: 0.00%
+
+Image: DATA/test\volkswagen tiguan\car1575.jpg
+    volkswagen tiguan: 100.00%
+    hyundai tucson: 0.00%
+    polo: 0.00%
+    toyota corolla: 0.00%
+    octavia: 0.00%
+
+Image: DATA/test\volkswagen tiguan\car1577.jpg
+    volkswagen tiguan: 100.00%
+    hyundai i10: 0.00%
+    hyundai tucson: 0.00%
+    chevrolet spark: 0.00%
+    sandero: 0.00%
+
+Image: DATA/test\volkswagen tiguan\car1578.jpg
+    volkswagen tiguan: 100.00%
+    hyundai tucson: 0.00%
+    polo: 0.00%
+    hyundai i10: 0.00%
+    chevrolet spark: 0.00%
+
+Image: DATA/test\volkswagen tiguan\car1585.jpg
+    volkswagen tiguan: 100.00%
+    duster: 0.00%
+    hyundai i10: 0.00%
+    megane: 0.00%
+    seat ibiza: 0.00%
+
