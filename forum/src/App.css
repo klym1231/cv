@@ -1,0 +1,30 @@
+.post-body{
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+  padding: 1em;
+  margin: 1em 25%;
+}
+
+.post-editor {
+  margin: 0 25%;
+}
+
+.post-editor-input{
+  margin-top: 1em;
+}
+
+.post-editor-button{
+  float: right;
+  margin-top: 1em;
+}
+
+@media (max-width: 900px) {
+  .post-editor {
+    margin: 1em;
+  }
+  .post-body {
+    margin: 1em;
+  }
+}
